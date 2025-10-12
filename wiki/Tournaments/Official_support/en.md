@@ -11,54 +11,103 @@ tags:
 
 The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
 
+This article is a living document and additions to it will be made over time as the [Tournament Committee](/wiki/People/Tournament_Committee) sees fit. They are solely responsible for maintaining this article. The committee does not have the ability to punish users or perform tournament screening, so they work together with the [account support team](/wiki/People/Account_support_team) to enforce the rules outlined here. See the [tournament review](/wiki/People/Tournament_Committee#tournament-review) procedure for more information.
+
 This article was last updated on October 9, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+
+## Conventions
+
+This article describes all procedures and regulations pertaining to official tournament support in osu!. To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.ietf.org/rfc/rfc2119.txt) are adopted. Specific words, such as "MUST", "SHOULD", and "MAY" are used to differentiate between what is strictly required, what is suggested, and what is optional.
+
+## Requesting support
+
+By requesting official support, **all hosts and co-hosts** associated with the tournament are subject to account action for breaches of the [criteria](#eligibility-criteria). Generally speaking, hosts and co-hosts are punished equally unless there is evidence to support taking an alternative approach.
 
 ## Benefits
 
-Officially supported tournaments have access to:
+Tournaments which are granted official support receive the following:
 
-- A dedicated [screening process](#tournament-screening) to prevent users with serious integrity infringements (cheating, multi-accounting, tournament bans) from playing.
 - [Profile badge prizes](#profile-badges) for first-place winners.
 - Potential consideration for a [main-menu banner advertisement](#requesting-in-game-banner-and-news-post-support) during major matches.
 - Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support), one post advertising registrations and one summarising final results.
 
-## Eligibility
+## Revocation of support
 
-Community-run tournaments which abide by the following hard criteria are eligible for support:
+The [Tournament Committee](/wiki/People/Tournament_Committee) is responsible for reviewing tournaments for official support eligibility. Should the committee determine that core [eligibility criteria](#criteria) has been violated, official support will be revoked. When this happens, the following occurs:
 
-- The tournament series must run no more than two times per year.
-- The tournament must operate on a Round of 16 double-elimination or a Round of 32 single-elimination format at a minimum.
-  - LAN tournaments must operate on a Round of 8 double-elimination or a Round of 16 single-elimination format at a minimum.
-  - Larger formats, such as group stages and Swiss brackets, may also be used so long as they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
-  - Tournaments that feature a draft or auction format may operate on a Round of 8 double-elimination bracket provided the tournament meets the following additional criteria:
-    - The tournament is open rank.
-    - The team size is 8 or more.
-    - Note: In global or continent-based draft and auction tournaments, this rule applies to a maximum of 2 open-rank divisions. For smaller-scale tournaments, this rule applies to only 1 open-rank division.
-  - Alternative scales and formats may be permitted at the sole discretion of the tournament committee. Hosts should [submit a ticket](https://tcomm.hivie.tn/tickets/create) or contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh) if they are seeking to receive tournament support for a non-traditional tournament format or size.
-- The forum threads associated with the tournament — this includes forum threads for any preliminary events — **MUST** contain a clearly visible link in a normal-sized font to the [tournament reports form](https://tcomm.hivie.tn/reports/create) as the very last content of the original post.
-  - `https://tcomm.hivie.tn/reports/create`
-  - This report form is overseen by the [Tournament Committee](/wiki/People/Tournament_Committee). We encourage all users — players and staff alike — to make use of this form where necessary. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility) requirements should prompt a report.
-- The tournament must abide by the following content usage rules:
+- Profile badge prizes are not awarded.
+- A hosting ban or other sanction may be applied to hosts and co-hosts.
+
+## Eligibility criteria
+
+These core criteria and expectations MUST be followed by hosts who request official support.
+
+The tournament and any associated preliminary events MUST adhere to all [expectations](#expectations) of officially supported tournaments.
+
+### Format
+
+Format criteria are inflexible fundamentals that all officially-supported tournaments MUST abide by. Any violation of the below points will **immediately** result in a [revocation of support](#revocation-of-support).
+
+**All** criteria listed below MUST be met:
+
+- The tournament series MUST NOT run more than two times per year.
+- The tournament format MUST be at least Round of 16 double-elimination or Round of 32 single-elimination.
+  - For LAN tournaments, the format MUST be at least Round of 8 double-elimination or Round of 16 single-elimination.
+  - Larger formats, such as group stages and Swiss brackets, MAY also be used if they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
+  - Draft or auction style tournaments MAY follow the same reduced bracket size as LAN events if they are open rank and have a minimum team size of 8.
+    - Note: This applies to a maximum of 2 divisions for global or continental tournaments and 1 division for smaller-scale tournaments.
+  - To request official support for an alternate format, hosts SHOULD [submit a ticket](https://tcomm.hivie.tn/tickets/create) or contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh). When in doubt, contact the committee.
+  - [This report form](https://tcomm.hivie.tn/reports/create) is overseen by the committee. All users SHOULD use this form as needed. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility-criteria) requirements SHOULD be reported. Users will never face consequences for reporting, provided they are not abusing the form.
+- The tournament MUST abide by the following content usage rules:
   - Usage of any beatmaps which have a DMCA takedown notice in any form is strictly prohibited.
   - The creation or reuse of any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) is strictly prohibited, except if they are **Ranked, Approved, or Loved**.
     - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion.
-- The tournament only allows players of exceptional skill to participate, disallowing players lower than the following ranks in each game mode:
+  - Use the [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool to ensure your tournament mappools are compliant and report any false positives.
+- Tournaments that are not open rank MUST adhere to these rank restriction ceilings:
   - osu!: 100,000
   - osu!taiko: 10,000
   - osu!catch: 5,000
   - osu!mania 4K: 40,000
   - osu!mania 7K: 5,000
-  - This does not apply to open rank tournaments.
-- The tournament organisers do not collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions.
-  - Email addresses may be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
-  - Personal information may be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
-  - Other exceptions to this rule may be granted by the osu! team, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
-- In cases where **any** personal information is collected from registrants for any reason, tournament organisers must include a privacy policy on the tournament's forum post and/or wiki page detailing the following:
-  - Any users, organisations, or other entities who can view this information.
-  - How the information will be stored and processed.
-  - What the information will be used for.
-- The tournament must adhere to all [expectations](#expectations) of officially supported tournaments.
-  - Any tournaments held as preliminary events leading into a main competition must adhere to the same [expectations](#expectations) as standalone tournaments.
+- Tournament organisers SHALL NOT collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions:
+  - Email addresses MAY be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
+  - Personal information MAY be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
+  - Other exceptions to this rule MAY be granted by the osu! team, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
+- In cases where **any** personal information is collected from registrants for any reason, including distribution of prize money:
+  - Tournament organisers MUST include a privacy policy on the tournament's forum post and/or wiki page **immediately upon forum post publication** detailing the following:
+    - Any users, organisations, or other entities who can view this information.
+    - How the information will be stored and processed.
+    - What the information will be used for.
+  - This privacy policy must be present **at the time the forum post was launched**. It may be modified if needed, but tournaments are expected to launch with this information publicly available.
+  - Modifications to the privacy policy MUST be announced publicly.
+
+### Regulatory
+
+Tournaments requesting official-support **must** adhere to the following:
+
+- All forum threads associated with the tournament, including preliminary events, must contain this snippit at the very end of the forum post:
+
+```
+[centre]
+[url=https://tcomm.hivie.tn/reports/create]Tournament reports form[/url]
+[/centre]
+```
+
+- All publicly-available staff listings, including spreadsheets and wiki pages, must be **100% accurate** and synchronized with each other.
+- All match listings and online brackets MUST be updated with the latest information.
+- All staff members who participated in the operation of each match MUST be listed. This SHOULD be on a publicly-viewable spreadsheet.
+  - When listing these staff members, the exact osu! username MUST be used.
+  - The usernames listed in the spreadsheet MUST match other staff listings.
+
+### Quality
+
+In addition to the above minimum criteria, officially-supported tournaments must maintain certain quality standards. Tournaments which achieve the above criteria without also focusing on producing a quality event will be **denied official support**. The quality standards listed below
+
+All officially-supported tournaments **must** meet these minimum quality standards, as determined by the committee:
+
+- Forum post graphics and profile badges must be of acceptable quality. A consistent theme is the bare minimum, however we strongly encourage working with / commissioning graphic designers in the community for quality work.
+- All relevant links must be present and maintained on the tournament's forum post.
+  - The main spreadsheet, online bracket, event website, twitch streams, Discord, and other core links are expected to be on the forum post. Other links, such as statistics, **should** be included on the tournament's main spreadsheet instead.
 
 ## Requesting support
 
