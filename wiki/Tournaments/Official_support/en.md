@@ -26,7 +26,7 @@ To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.iet
 
 ## Foreword
 
-It is incredibly important that tournament hosts and co-hosts understand the weight of choosing to request official support. While there are many benefits, there are also many potential downsides should the tournament fail to adhere to the criteria, including account action and reputational damage.
+It is incredibly important that tournament hosts and co-hosts understand the weight of choosing to request official support. While there are many benefits, there are also many potential downsides should the tournament fail to adhere to the criteria, including account action and reputational damage. Tournament hosts **must** be prepared to adhere to all [eligibility criteria](#eligibility-criteria) prior to submitting the support request.
 
 Thus, the committee **strongly recommends** that prospective hosts first staff in several tournaments in a variety of roles - at least as a referee - before hosting **any** tournament. It is then **recommended** to request official support after hosting at least one tournament without requesting support.
 
@@ -41,6 +41,15 @@ For example, if a non-compliant beatmap makes its way into a mappool, the hosts 
 ## Eligibility criteria
 
 Tournaments requesting official support (and any associated preliminary events) **must** adhere to the eligibility criteria.
+
+### Principals
+
+Community-run tournaments receiving this support **must** abide by the following general ideals:
+
+- Remain free and fair.
+- Be as transparent as possible.
+- Preserve competitive integrity.
+- Encourage good sportsmanship.
 
 ### Format
 
@@ -77,10 +86,62 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
   - This privacy policy must be present **at the time the forum post was launched**. It may be modified if needed, but tournaments are expected to launch with this information publicly available.
   - Modifications to the privacy policy **must** be announced publicly.
 
+### Quality
+
+Officially-supported tournaments **must** meet certain quality standards and maintain them throughout the tournament. Low-quality events are subject to [revocation of support](#revocation-of-support).
+
+- Forum post graphics, profile badges, stream overlays, and other graphics **must** have a reasonable amount of effort put into them. A consistent theme following standard design principles is **required**.
+  - Graphic designers are frequently commissioned to handle this aspect of the tournament.
+- The tournament **should** feature visually appealing, clearly readable spreadsheets which contain all of the information required by the committee to conduct the tournament review process:
+  - Registrants
+  - Mappools
+  - Schedule (qualifier, bracket, group stage, etc.)
+  - Qualifier results/stats
+- If not using spreadsheets (**not recommended**), all of the above information must be made publicly available via a website or other means. Whatever the method, it **must** be at least as accessible as a public spreadsheet and **should** be more convenient to use than a spreadsheet for players, staff, and the committee.
+- Effort **should** be made to livestream matches and provide commentary, especially towards the end of the tournament where competition peaks.
+
+#### Tri-badge
+
+The tri-badge distinction is reserved for tournaments achieving the highest level of production quality possible in osu! tournaments. In general, it should be **obvious** the tournament is worthy of receiving the distinction due to its outstanding quality, competition, and community impact.
+
+Hosts aiming to achieve this support (cit) **must** achieve as many of these criteria as possible:
+
+- The tournament **must not** violate **any** other criteria listed in this article.
+- The tournament **must** be open rank.
+  - Tournaments **may** introduce limitations to the team formation process such as requiring teammates to be from the same region.
+  - Drafts, suiji, and other formats that modify the team creation process are permitted.
+- Rules and regulations must be thoroughly thought through and documented **exceptionally well**.
+  - Rules **should not** need to be changed during the course of the event.
+- Rules and regulations **must** be enforced with **extremely high** accuracy. Issues with normal tournament operations should be handled **exceptionally** well.
+- Stream overlays and other graphics **must** be of **extremely high** quality.
+  - Stream overlays **must** provide an excellent viewing experience, and **must not** have unnecessary clutter, unpolished elements, misaligned text, or text that unpleasantly clashes with background imagery.
+  - Stream overlays **should** be fully animated.
+  - Animated stinger transitions **should** be used between screens.
+- Stream overlays **must** function **flawlessly** by the time the finals round is reached. While it is understood that bugs and issues occur in early rounds, these should be resolved as early as possible.
+- Player and community interest in the tournament **should** be **exceptionally high**.
+- Viewership of late-stage livestreams **should** be among the highest for tournaments of the same mode.
+- The tournament **should** be widely respected and highly anticipated by the community.
+- The level of competition **must** be **extremely high**.
+- A tournament website **may** be used. **If** so, it **must** function **exceptionally** well. A website that does not match the rest of the tournament's quality is worse than no website at all.
+- A vast majority of matches **must** be livestreamed with commentary.
+- Barring exceptional circumstances, livestreams **must** be recorded. Recordings **must** be preserved and **should** be elegantly curated.
+  - Saving Twitch livestream recordings and re-publishing to YouTube is recommended.
+  - Uploads **should** have thumbnails.
+
 ### Regulatory
 
 Tournaments requesting official-support **must** adhere to the following:
 
+- All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
+- If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
+  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://tcomm.hivie.tn/reports/create).
+- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players may not "self-ref".
+- Every match within the same bracket or qualifier stage should be held in a consistent format. For example, in a tournament which uses a qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
+- All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
+- All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
+- All relevant links **must** be present and maintained on the tournament's forum post.
+  - The main spreadsheet, online bracket, event website, twitch streams, Discord, and other core links are expected to be on the forum post. Other links, such as statistics, **should** be included on the tournament's main spreadsheet instead.
+- All promotional material or services associated with a tournament receiving official support **must** adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
 - All forum threads associated with the tournament must contain this snippit at the very end of the forum post:
 
 ```
@@ -89,21 +150,19 @@ Tournaments requesting official-support **must** adhere to the following:
 [/centre]
 ```
 
+Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh):
+
+- A list of applicable badge recipients (a.k.a. the winners of your tournament).
+- An appropriately designed badge ([see below](#profile-badges)).
+- Links to the tournament's wiki page, website and/or publicly viewable spreadsheet(s) with:
+  - The tournament's match history with links to all matches, including qualifiers where applicable.
+  - The tournament's mappools.
+  - The tournament's qualifier results, where applicable.
 - All match listings and online brackets **must** be updated with the latest information.
 - All publicly-available staff listings, including spreadsheets and wiki pages, must be **100% accurate** and synchronized with each other.
   - All staff members who participated in the operation of each match **must** be listed. This **should** be on a publicly-viewable spreadsheet.
   - When listing these staff members, the exact osu! username **must** be used.
   - The usernames listed in the spreadsheet **must** match other staff listings.
-
-### Quality
-
-In addition to the above minimum criteria, officially-supported tournaments must maintain certain quality standards. Tournaments which achieve the above criteria without also focusing on producing a quality event will be **denied official support**. The quality standards listed below
-
-All officially-supported tournaments **must** meet these minimum quality standards, as determined by the committee:
-
-- Forum post graphics and profile badges must be of acceptable quality. A consistent theme is the bare minimum, however we strongly encourage working with / commissioning graphic designers in the community for quality work.
-- All relevant links must be present and maintained on the tournament's forum post.
-  - The main spreadsheet, online bracket, event website, twitch streams, Discord, and other core links are expected to be on the forum post. Other links, such as statistics, **should** be included on the tournament's main spreadsheet instead.
 
 ## Requesting support
 
@@ -139,36 +198,6 @@ The [Tournament Committee](/wiki/People/Tournament_Committee) is responsible for
 ## Expectations
 
 Tournament organisers are expected to monitor their tournament for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Failure to adhere to this may result in withdrawal of official support.
-
-### Tournaments
-
-Community-run tournaments receiving this support are expected to abide by the following general ideals:
-
-- Remain free and fair.
-- Be as transparent as possible.
-- Preserve competitive integrity.
-- Encourage good sportsmanship.
-
-In addition, all promotional material or any services associated with a tournament receiving official support should adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
-
-**The tournament must also abide by the following practices throughout:**
-
-- All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
-- If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
-  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://tcomm.hivie.tn/reports/create).
-- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players may not "self-ref".
-- Every match within the same bracket or qualifier stage should be held in a consistent format. For example, in a tournament which uses a qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
-- All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
-- All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
-
-Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh):
-
-- A list of applicable badge recipients (a.k.a. the winners of your tournament).
-- An appropriately designed badge ([see below](#profile-badges)).
-- Links to the tournament's wiki page, website and/or publicly viewable spreadsheet(s) with:
-  - The tournament's match history with links to all matches, including qualifiers where applicable.
-  - The tournament's mappools.
-  - The tournament's qualifier results, where applicable.
 
 ### Programs
 
