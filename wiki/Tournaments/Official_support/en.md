@@ -95,10 +95,12 @@ Officially-supported tournaments **must** meet certain quality standards and mai
 - The tournament **should** feature visually appealing, clearly readable spreadsheets which contain all of the information required by the committee to conduct the tournament review process:
   - Registrants
   - Mappools
-  - Schedule (qualifier, bracket, group stage, etc.)
-  - Qualifier results/stats
-- If not using spreadsheets (**not recommended**), all of the above information must be made publicly available via a website or other means. Whatever the method, it **must** be at least as accessible as a public spreadsheet and **should** be more convenient to use than a spreadsheet for players, staff, and the committee.
+  - Schedule (qualifier, bracket, group stage, etc.) with match links
+  - Qualifier results with match links
+- If not using spreadsheets, all of the above information **must** be made publicly available via a website or other means. Whatever the method, it **must** be at least as accessible as a public spreadsheet, contain all of the necessary information, and **should** be more convenient to use than a spreadsheet.
 - Effort **should** be made to livestream matches and provide commentary, especially towards the end of the tournament where competition peaks.
+- There **should not** be many organisational problems, such as issues with holding matches on time.
+- Rules **must** be enforced as consistently as possible. Rules **must** be written in a way that removes as much ambiguity as possible.
 
 #### Tri-badge
 
