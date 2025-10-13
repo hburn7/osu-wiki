@@ -24,34 +24,27 @@ To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.iet
 - **Should** - This word, or the adjective **recommended**, means that there may exist valid reasons to ignore a particular item, but the full implications must be understood before deviating from the recommended course of action.
 - **May** - This word, or the adjective **optional**, mean that an item is truly optional. These terms are often followed by specific conditions which must be met before the optional component is realised. In these cases, the word **if** is used to define the conditions.
 
-## Requesting support
+## Foreword
 
-By requesting official support, **all hosts and co-hosts** associated with the tournament are subject to account action for breaches of the [criteria](#eligibility-criteria). Generally speaking, hosts and co-hosts are punished equally unless there is evidence to support taking an alternative approach.
+It is incredibly important that tournament hosts and co-hosts understand the weight of choosing to request official support. While there are many benefits, there are also many potential downsides should the tournament fail to adhere to the criteria, including account action and reputational damage.
 
-## Benefits
+Thus, the committee **strongly recommends** that prospective hosts first staff in several tournaments in a variety of roles - at least as a referee - before hosting **any** tournament. It is then **recommended** to request official support after hosting at least one tournament without requesting support.
 
-Tournaments which are granted official support receive the following:
+Hosts of tournaments that lose official support will find out after the [tournament review](/wiki/People/Tournament_Committee#tournament-review) process has concluded, meaning the winning team (who thought they would receive a [badge prize](#benefits)) will be incredibly disappointed.
 
-- [Profile badge prizes](#profile-badges) for first-place winners.
-- Potential consideration for a [main-menu banner advertisement](#requesting-in-game-banner-and-news-post-support) during major matches.
-- Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support), one post advertising registrations and one summarising final results.
+It is virtually unheard of for a tournament to be denied support prior to its conclusion. This is because the committee does not review tournaments requesting support to ensure eligibility. It is assumed that incoming requests are valid until proven otherwise during tournament review. It is the responsibility of the host to clarify the criteria by [contacting the committee](#contact) prior to submitting the request for support.
 
-## Revocation of support
+The committee expects tournament hosts requesting this support to follow all criteria exactly as written. Hosts and co-hosts are all equally, chiefly responsible for the success of their tournaments and will generally be actioned equally should it be warranted. So long as an avenue exists such that host action could have prevented the denial of support, they will be held responsible.
 
-The [Tournament Committee](/wiki/People/Tournament_Committee) is responsible for reviewing tournaments for official support eligibility. Should the committee determine that core [eligibility criteria](#criteria) has been violated, official support will be revoked. When this happens, the following occurs:
-
-- Profile badge prizes are not awarded.
-- A hosting ban or other sanction may be applied to hosts and co-hosts.
+For example, if a non-compliant beatmap makes its way into a mappool, the hosts are the ones held responsible, not the staff who selected the beatmap. This is because it is the responsibility of the hosts to check for beatmap compliance, per the eligibility criteria.
 
 ## Eligibility criteria
 
-These core criteria and expectations **must** be followed by hosts who request official support.
-
-The tournament and any associated preliminary events **must** adhere to all [expectations](#expectations) of officially supported tournaments.
+These core criteria and expectations **must** be adhered to in tournaments requesting official support. The tournament and any associated preliminary events **must** adhere to the defined eligibility criteria.
 
 ### Format
 
-Format criteria are inflexible fundamentals that all officially-supported tournaments **must** abide by. Any violation of the below points will **immediately** result in a [revocation of support](#revocation-of-support).
+Format criteria are **inflexible, absolute fundamentals** that all officially-supported tournaments **must** abide by. Any violation of the below points will **immediately** result in a [revocation of support](#revocation-of-support).
 
 **All** criteria listed below **must** be met:
 
@@ -129,6 +122,21 @@ If your tournament satisfies the [eligibility criteria](#eligibility), you can m
 - A list of the users who have registered to participate in the tournament (see [tournament screening](#tournament-screening)), as a separate attachment.
 
 Once we receive your request, the account support team will return a list of users who are ineligible to participate in tournaments. Please allow ample time for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
+
+## Benefits
+
+Tournaments which are granted official support receive the following:
+
+- [Profile badge prizes](#profile-badges) for first-place winners.
+- Potential consideration for a [main-menu banner advertisement](#requesting-in-game-banner-and-news-post-support) during major matches.
+- Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support), one post advertising registrations and one summarising final results.
+
+## Revocation of support
+
+The [Tournament Committee](/wiki/People/Tournament_Committee) is responsible for reviewing tournaments for official support eligibility. Should the committee determine that core [eligibility criteria](#criteria) has been violated, official support will be revoked. When this happens, the following occurs:
+
+- Profile badge prizes are not awarded.
+- A hosting ban or other sanction may be applied to hosts and co-hosts.
 
 ## Expectations
 
