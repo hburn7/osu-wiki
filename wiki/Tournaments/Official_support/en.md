@@ -9,15 +9,20 @@ tags:
 
 *For beatmapping contest support, see: [Official beatmapping contest support](/wiki/Contests/Official_support).*
 
-The [osu! team](/wiki/People/osu!_team) runs a program where they may opt to provide community-run tournaments that abide by a certain set of criteria and expectations with extra support, at their discretion.
+The [Tournament Committee](/wiki/People/Tournament_Committee) ("committee") runs a program where they provide community-run tournaments that abide by certain criteria and expectations with extra support, at their discretion. This program is overseen by the [osu! team](/wiki/People/osu!_team).
 
-This article is a living document and additions to it will be made over time as the [Tournament Committee](/wiki/People/Tournament_Committee) sees fit. They are solely responsible for maintaining this article. The committee does not have the ability to punish users or perform tournament screening, so they work together with the [account support team](/wiki/People/Account_support_team) to enforce the rules outlined here. See the [tournament review](/wiki/People/Tournament_Committee#tournament-review) procedure for more information.
+This article describes all procedures and regulations pertaining to official tournament support in osu!. As the tournament landscape continues to evolve, the committee routinely updates this article as they see fit. The committee works with the [account support team](/wiki/People/Account_support_team) to execute the rules and procedures defined here.
 
-This article was last updated on October 9, 2025. For the full changelog, check out the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please consult the `#tournaments` channel in the [osu! Discord server](https://discord.com/invite/ppy) or send an email to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+This article was last updated on TODO: DATE. A complete changelog is maintained in the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please [contact the committee](#contact).
 
 ## Conventions
 
-This article describes all procedures and regulations pertaining to official tournament support in osu!. To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.ietf.org/rfc/rfc2119.txt) are adopted. Specific words, such as "MUST", "SHOULD", and "MAY" are used to differentiate between what is strictly required, what is suggested, and what is optional.
+To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.ietf.org/rfc/rfc2119.txt) are adopted. These words are used in **bold** to differentiate between what is strictly required, what is suggested, and what is optional.
+
+- **Must** - This word, or the terms **required** or **shall**, represent an absolute requirement.
+- **Must not** - This phrase, or the phrase **shall not**, represents an absolute prohibition.
+- **Should** - This word, or the adjective **recommended**, means that there may exist valid reasons to ignore a particular item, but the full implications must be understood before deviating from the recommended course of action.
+- **May** - This word, or the adjective **optional**, mean that an item is truly optional. These terms are often followed by specific conditions which must be met before the optional component is realised. In these cases, the word **if** is used to define the conditions.
 
 ## Requesting support
 
@@ -40,46 +45,46 @@ The [Tournament Committee](/wiki/People/Tournament_Committee) is responsible for
 
 ## Eligibility criteria
 
-These core criteria and expectations MUST be followed by hosts who request official support.
+These core criteria and expectations **must** be followed by hosts who request official support.
 
-The tournament and any associated preliminary events MUST adhere to all [expectations](#expectations) of officially supported tournaments.
+The tournament and any associated preliminary events **must** adhere to all [expectations](#expectations) of officially supported tournaments.
 
 ### Format
 
-Format criteria are inflexible fundamentals that all officially-supported tournaments MUST abide by. Any violation of the below points will **immediately** result in a [revocation of support](#revocation-of-support).
+Format criteria are inflexible fundamentals that all officially-supported tournaments **must** abide by. Any violation of the below points will **immediately** result in a [revocation of support](#revocation-of-support).
 
-**All** criteria listed below MUST be met:
+**All** criteria listed below **must** be met:
 
-- The tournament series MUST NOT run more than two times per year.
-- The tournament format MUST be at least Round of 16 double-elimination or Round of 32 single-elimination.
-  - For LAN tournaments, the format MUST be at least Round of 8 double-elimination or Round of 16 single-elimination.
-  - Larger formats, such as group stages and Swiss brackets, MAY also be used if they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
-  - Draft or auction style tournaments MAY follow the same reduced bracket size as LAN events if they are open rank and have a minimum team size of 8.
+- The tournament series **must** NOT run more than two times per year.
+- The tournament format **must** be at least Round of 16 double-elimination or Round of 32 single-elimination.
+  - For LAN tournaments, the format **must** be at least Round of 8 double-elimination or Round of 16 single-elimination.
+  - Larger formats, such as group stages and Swiss brackets, **may** also be used if they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
+  - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events if they are open rank and have a minimum team size of 8.
     - Note: This applies to a maximum of 2 divisions for global or continental tournaments and 1 division for smaller-scale tournaments.
-  - To request official support for an alternate format, hosts SHOULD [submit a ticket](https://tcomm.hivie.tn/tickets/create) or contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh). When in doubt, contact the committee.
-  - [This report form](https://tcomm.hivie.tn/reports/create) is overseen by the committee. All users SHOULD use this form as needed. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility-criteria) requirements SHOULD be reported. Users will never face consequences for reporting, provided they are not abusing the form.
-- The tournament MUST abide by the following content usage rules:
+  - To request official support for an alternate format, hosts **should** [submit a ticket](https://tcomm.hivie.tn/tickets/create) or contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh). When in doubt, contact the committee.
+  - [This report form](https://tcomm.hivie.tn/reports/create) is overseen by the committee. All users **should** use this form as needed. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility-criteria) requirements **should** be reported. Users will never face consequences for reporting, provided they are not abusing the form.
+- The tournament **must** abide by the following content usage rules:
   - Usage of any beatmaps which have a DMCA takedown notice in any form is strictly prohibited.
   - The creation or reuse of any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) is strictly prohibited, except if they are **Ranked, Approved, or Loved**.
     - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion.
   - Use the [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool to ensure your tournament mappools are compliant and report any false positives.
-- Tournaments that are not open rank MUST adhere to these rank restriction ceilings:
+- Tournaments that are not open rank **must** adhere to these rank restriction ceilings:
   - osu!: 100,000
   - osu!taiko: 10,000
   - osu!catch: 5,000
   - osu!mania 4K: 40,000
   - osu!mania 7K: 5,000
-- Tournament organisers SHALL NOT collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions:
-  - Email addresses MAY be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
-  - Personal information MAY be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
-  - Other exceptions to this rule MAY be granted by the osu! team, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
+- Tournament organisers **shall not** collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions:
+  - Email addresses **may** be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
+  - Personal information **may** be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
+  - Other exceptions to this rule **may** be granted by the osu! team, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
 - In cases where **any** personal information is collected from registrants for any reason, including distribution of prize money:
-  - Tournament organisers MUST include a privacy policy on the tournament's forum post and/or wiki page **immediately upon forum post publication** detailing the following:
+  - Tournament organisers **must** include a privacy policy on the tournament's forum post and/or wiki page **immediately upon forum post publication** detailing the following:
     - Any users, organisations, or other entities who can view this information.
     - How the information will be stored and processed.
     - What the information will be used for.
   - This privacy policy must be present **at the time the forum post was launched**. It may be modified if needed, but tournaments are expected to launch with this information publicly available.
-  - Modifications to the privacy policy MUST be announced publicly.
+  - Modifications to the privacy policy **must** be announced publicly.
 
 ### Regulatory
 
@@ -94,10 +99,10 @@ Tournaments requesting official-support **must** adhere to the following:
 ```
 
 - All publicly-available staff listings, including spreadsheets and wiki pages, must be **100% accurate** and synchronized with each other.
-- All match listings and online brackets MUST be updated with the latest information.
-- All staff members who participated in the operation of each match MUST be listed. This SHOULD be on a publicly-viewable spreadsheet.
-  - When listing these staff members, the exact osu! username MUST be used.
-  - The usernames listed in the spreadsheet MUST match other staff listings.
+- All match listings and online brackets **must** be updated with the latest information.
+- All staff members who participated in the operation of each match **must** be listed. This **should** be on a publicly-viewable spreadsheet.
+  - When listing these staff members, the exact osu! username **must** be used.
+  - The usernames listed in the spreadsheet **must** match other staff listings.
 
 ### Quality
 
@@ -338,6 +343,40 @@ While support for advertising and sharing the outcome of your tournament is avai
 
 Requests for news support will be reviewed by both the Tournament Committee and the osu! news team for suitability.
 
+## Contact
+
+There are three main ways to get in contact with the committee:
+
+- Sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Submitting a ticket or report through the [Tournament Committee website](https://tcomm.hivie.tn/).
+- Pinging the `@tournament-committee` role in the [osu! Discord](https://discord.gg/ppy).
+
+At a high level, these are the reasons each method **should** be used. Contact methods with the ![false] icon **must not** be used for the corresponding contact reason.
+
+| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy) |
+| :-- | :-- | :-- | :-- |
+| Official tournament support requests | ![true] | ![false] | ![false] |
+| News post and main-menu banner requests | ![true] | ![false] | ![false] |
+| Conclusion / prize request | ![true] | ![false] | ![false] |
+| Anonymous inquiry or report | ![true] | ![false] | ![false] |
+| Tournament format approval requests | ![partial] | ![true] | ![false] |
+| Quick clarification on beatmap compliance | ![partial] | ![true] | ![true] |
+| Quick questions about procedures | ![partial] | ![true] | ![true] |
+| Immediate assistance / intervention by the committee | ![partial] | ![partial] | ![true] [^intervention] |
+
+The following table details **approximate** maximum wait times for common inquiries. Wait times vary dramatically depending on the complexity of the inquiry and method of contact. Simple queries are sometimes answered in minutes, while very complex topics requiring group consensus can take several weeks to process. Response times also vary depending on the urgency of the request.
+
+| Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy) |
+| :-- | :-- | :-- | :-- |
+| Official tournament support requests / screening | 2 weeks | ![false] | ![false] |
+| News post and main-menu banner requests | 3 weeks | ![false] | ![false] |
+| Simple tournament format approval requests | 2 weeks | 1 week | ![false] |
+| Complex or novel tournament format approval requests | 3 weeks | 2 weeks | ![false] |
+| Complex issues requiring resolution by the committee | 2 weeks | 10 days | ![false] |
+| Tournament reports | No response | 10 days | ![false] |
+| Quick questions about basic procedures | 1 week | A few days | 24 hours |
+| Immediate assistance / intervention by the committee | 1 week | 2 days | 24 hours |
+
 ## FAQ
 
 ### If a user has not yet played any matches, can they join the staff? {id=no-play-join-staff}
@@ -360,3 +399,8 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 
 [^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.
 [^personal-information]: Personal information is defined as any information that can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
+[^intervention]: After joining the [Discord](https://discord.gg/ppy), navigate to `#tournaments` and ping the `@tournament-committee` role for immediate assistance. Emergency use only.
+
+[true]: /wiki/shared/true.png "Allowed, preferred"
+[false]: /wiki/shared/false.png "Not allowed"
+[partial]: /wiki/shared/partial.png "Allowed, not preferred"
