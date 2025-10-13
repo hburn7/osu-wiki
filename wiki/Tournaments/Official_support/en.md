@@ -22,7 +22,7 @@ To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.iet
 - **Must** - This word, or the terms **required** or **shall**, represent an absolute requirement.
 - **Must not** - This phrase, or the phrase **shall not**, represents an absolute prohibition.
 - **Should** - This word, or the adjective **recommended**, means that there may exist valid reasons to ignore a particular item, but the full implications must be understood before deviating from the recommended course of action.
-- **May** - This word, or the adjective **optional**, mean that an item is truly optional. These terms are often followed by specific conditions which must be met before the optional component is realised. In these cases, the word **if** is used to define the conditions.
+- **May** - This word, or the adjective **optional**, mean that an item is truly optional. These terms are often followed by specific conditions which must be met before the optional component is realised. In these cases, the words **if** or **unless** are used to define the conditions.
 
 ## Foreword
 
@@ -40,28 +40,25 @@ For example, if a non-compliant beatmap makes its way into a mappool, the hosts 
 
 ## Eligibility criteria
 
-These core criteria and expectations **must** be adhered to in tournaments requesting official support. The tournament and any associated preliminary events **must** adhere to the defined eligibility criteria.
+Tournaments requesting official support (and any associated preliminary events) **must** adhere to the eligibility criteria.
 
 ### Format
 
-Format criteria are **inflexible, absolute fundamentals** that all officially-supported tournaments **must** abide by. Any violation of the below points will **immediately** result in a [revocation of support](#revocation-of-support).
+Format criteria are **inflexible, absolute fundamentals** that all officially-supported tournaments **must** abide by. Any violation of the below points will immediately result in a [revocation of support](#revocation-of-support):
 
-**All** criteria listed below **must** be met:
-
-- The tournament series **must** NOT run more than two times per year.
+- The tournament series **must not** run more than two times per year.
 - The tournament format **must** be at least Round of 16 double-elimination or Round of 32 single-elimination.
   - For LAN tournaments, the format **must** be at least Round of 8 double-elimination or Round of 16 single-elimination.
-  - Larger formats, such as group stages and Swiss brackets, **may** also be used if they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
-  - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events if they are open rank and have a minimum team size of 8.
+  - Larger formats, such as group stages and Swiss brackets, **may** also be used **if** they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
+  - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank and have a minimum team size of 8.
     - Note: This applies to a maximum of 2 divisions for global or continental tournaments and 1 division for smaller-scale tournaments.
-  - To request official support for an alternate format, hosts **should** [submit a ticket](https://tcomm.hivie.tn/tickets/create) or contact [tournaments@ppy.sh](mailto:tournaments@ppy.sh). When in doubt, contact the committee.
-  - [This report form](https://tcomm.hivie.tn/reports/create) is overseen by the committee. All users **should** use this form as needed. Any breaches of [expectations](#expectations), [other procedures](#other-procedures), or [eligibility](#eligibility-criteria) requirements **should** be reported. Users will never face consequences for reporting, provided they are not abusing the form.
+  - To request official support for an alternate format, hosts **must** [contact the committee](#contact) and receive written approval.
 - The tournament **must** abide by the following content usage rules:
-  - Usage of any beatmaps which have a DMCA takedown notice in any form is strictly prohibited.
-  - The creation or reuse of any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) is strictly prohibited, except if they are **Ranked, Approved, or Loved**.
-    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion.
-  - Use the [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool to ensure your tournament mappools are compliant and report any false positives.
-- Tournaments that are not open rank **must** adhere to these rank restriction ceilings:
+  - Any beatmaps used in the tournament **must not** have a DMCA takedown notice.
+  - The creation or reuse of any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) **shall not** be used, **unless** they are Ranked, Approved, or Loved.
+    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion. Hosts **must** receive permission from the artist prior to its use in the tournament.
+  - The [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool **should** be used to ensure your tournament mappools are compliant.
+- Tournaments that are not open rank **must not** allow participants whose numeric global rank value is larger than:
   - osu!: 100,000
   - osu!taiko: 10,000
   - osu!catch: 5,000
@@ -71,6 +68,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
   - Email addresses **may** be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
   - Personal information **may** be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
   - Other exceptions to this rule **may** be granted by the osu! team, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
+  - For tournaments restricting registrations by country, profile flags **should** be used as the basis for entry.
 - In cases where **any** personal information is collected from registrants for any reason, including distribution of prize money:
   - Tournament organisers **must** include a privacy policy on the tournament's forum post and/or wiki page **immediately upon forum post publication** detailing the following:
     - Any users, organisations, or other entities who can view this information.
@@ -83,7 +81,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
 
 Tournaments requesting official-support **must** adhere to the following:
 
-- All forum threads associated with the tournament, including preliminary events, must contain this snippit at the very end of the forum post:
+- All forum threads associated with the tournament must contain this snippit at the very end of the forum post:
 
 ```
 [centre]
@@ -91,9 +89,9 @@ Tournaments requesting official-support **must** adhere to the following:
 [/centre]
 ```
 
-- All publicly-available staff listings, including spreadsheets and wiki pages, must be **100% accurate** and synchronized with each other.
 - All match listings and online brackets **must** be updated with the latest information.
-- All staff members who participated in the operation of each match **must** be listed. This **should** be on a publicly-viewable spreadsheet.
+- All publicly-available staff listings, including spreadsheets and wiki pages, must be **100% accurate** and synchronized with each other.
+  - All staff members who participated in the operation of each match **must** be listed. This **should** be on a publicly-viewable spreadsheet.
   - When listing these staff members, the exact osu! username **must** be used.
   - The usernames listed in the spreadsheet **must** match other staff listings.
 
