@@ -9,20 +9,20 @@ tags:
 
 *For beatmapping contest support, see: [Official beatmapping contest support](/wiki/Contests/Official_support).*
 
-The [Tournament Committee](/wiki/People/Tournament_Committee) ("committee") runs a program where they provide community-run tournaments that abide by certain criteria and expectations with extra support, at their discretion. This program is overseen by the [osu! team](/wiki/People/osu!_team).
+The [Tournament Committee](/wiki/People/Tournament_Committee) ("committee") runs a program where they provide community-run tournaments that abide by certain criteria and expectations with extra support, at their discretion. This program is overseen by the [osu! team](/wiki/People/osu!_team). This article details all procedures and regulations pertaining to this program.
 
-This article describes all procedures and regulations pertaining to official tournament support in osu!. As the tournament landscape continues to evolve, the committee routinely updates this article as they see fit. The committee works with the [account support team](/wiki/People/Account_support_team) to execute the rules and procedures defined here.
+As the tournament landscape continues to evolve, the committee routinely updates this article as needed. The committee works with the [account support team](/wiki/People/Account_support_team) to execute the rules and procedures defined here.
 
 This article was last updated on TODO: DATE. A complete changelog is maintained in the [tournament support updates thread](https://osu.ppy.sh/community/forums/topics/1715676). For any queries or clarifications, please [contact the committee](#contact).
 
 ## Conventions
 
-To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.ietf.org/rfc/rfc2119.txt) are adopted. These words are used in **bold** to differentiate between what is strictly required, what is suggested, and what is optional.
+To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.ietf.org/rfc/rfc2119.txt) are adopted. These terms are used in **bold** to differentiate between what is strictly required, what is suggested, and what is optional.
 
 - **Must** - This word, or the terms **required** or **shall**, represent an absolute requirement.
 - **Must not** - This phrase, or the phrase **shall not**, represents an absolute prohibition.
 - **Should** - This word, or the adjective **recommended**, means that there may exist valid reasons to ignore a particular item, but the full implications must be understood before deviating from the recommended course of action.
-- **May** - This word, or the adjective **optional**, mean that an item is truly optional. These terms are often followed by specific conditions which must be met before the optional component is realised. In these cases, the words **if** or **unless** are used to define the conditions.
+- **May** - This word, or the adjective **optional**, means that an item is truly optional. These terms are often followed by specific conditions which must be met before the optional component is realised. In these cases, the words **if** or **unless** are used to define the conditions.
 
 ## Foreword
 
@@ -30,13 +30,17 @@ It is incredibly important that tournament hosts and co-hosts understand the wei
 
 Thus, the committee **strongly recommends** that prospective hosts first staff in several tournaments in a variety of roles - at least as a referee - before hosting **any** tournament. It is then **recommended** to request official support after hosting at least one tournament without requesting support.
 
-Hosts of tournaments that lose official support will find out after the [tournament review](/wiki/People/Tournament_Committee#tournament-review) process has concluded, meaning the winning team (who thought they would receive a [badge prize](#benefits)) will be incredibly disappointed.
-
-It is virtually unheard of for a tournament to be denied support prior to its conclusion. This is because the committee does not review tournaments requesting support to ensure eligibility. It is assumed that incoming requests are valid until proven otherwise during tournament review. It is the responsibility of the host to clarify the criteria by [contacting the committee](#contact) prior to submitting the request for support.
-
 The committee expects tournament hosts requesting this support to follow all criteria exactly as written. Hosts and co-hosts are all equally, chiefly responsible for the success of their tournaments and will generally be actioned equally should it be warranted. So long as an avenue exists such that host action could have prevented the denial of support, they will be held responsible.
 
 For example, if a non-compliant beatmap makes its way into a mappool, the hosts are the ones held responsible, not the staff who selected the beatmap. This is because it is the responsibility of the hosts to check for beatmap compliance, per the eligibility criteria.
+
+## Benefits
+
+Tournaments which are granted official support receive the following:
+
+- [Profile badge prizes](#profile-badges) for first-place winners.
+- Potential consideration for a [main-menu banner advertisement](#requesting-in-game-banner-and-news-post-support) during major matches.
+- Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support), one post advertising registrations and one summarising final results.
 
 ## Eligibility criteria
 
@@ -168,12 +172,16 @@ Once the tournament has concluded, the tournament organisers will need to submit
 
 ## Requesting support
 
-To start with, the request for support **must be made well before the tournament actually commences play.** There are no specific timelines for this, but we recommend at least two to three weeks before play commences to account for delays in the screening process.
+This section details the procedures hosts must follow to receive official support. It is assumed that tournaments requesting support already satisfy the [eligibility criteria](#eligibility-criteria).
 
-If your tournament satisfies the [eligibility criteria](#eligibility), you can make a request for support by sending an email to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) with the following information:
+### 2. Screening
 
-- A brief description of your tournament, including any applicable dates, game modes, and any other appropriate features
-- Any links to:
+In most cases, the screening email is the first step in the official tournament support process. At a high level, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before bracket-stage matches begin with a screening request. Hosts **should** account for a two-week turnaround time for these requests.
+
+The screening email **must** contain:
+
+- A brief description of your tournament, including any applicable dates, game modes, and any other appropriate features.
+- Where applicable, links to:
   - The forum thread located under the [Tournaments forum](https://osu.ppy.sh/community/forums/55) that announces/details your tournament.
     - For regional tournaments, the thread may be created in the appropriate language subforum.
   - Public Discord servers or any other off-site chatrooms used for the event.
@@ -182,20 +190,81 @@ If your tournament satisfies the [eligibility criteria](#eligibility), you can m
 
 Once we receive your request, the account support team will return a list of users who are ineligible to participate in tournaments. Please allow ample time for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
 
-## Benefits
+It is the responsibility of the host to clarify the criteria by [contacting the committee](#contact) prior to submitting the request for support should they have concerns or need clarity on the [eligibility criteria](#eligibility-criteria).
 
-Tournaments which are granted official support receive the following:
+## Additional support
 
-- [Profile badge prizes](#profile-badges) for first-place winners.
-- Potential consideration for a [main-menu banner advertisement](#requesting-in-game-banner-and-news-post-support) during major matches.
-- Potential consideration for [news coverage](#requesting-in-game-banner-and-news-post-support), one post advertising registrations and one summarising final results.
+At the committee's discretion, additional support may be awarded to tournaments, such as front-page news posts, main-menu banners, and more.
+
+### News posts & main-menu banners
+
+Long-running tournaments **may** receive additional support to enhance their visibility to the playerbase through news posts and main-menu banners. Main-menu banners are hyperlinked images which appear in-game and on the home page of the osu! website during certain match times provided by the host. News posts remain visible on the home page of the osu! website until other news posts supersede it.
+
+To request this support, the host **must** send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) detailing the tournament's history, community impact, viewership metrics (if available), and any other evidence supporting the request. The committee has full discretion on whether to award this additional support. Support is not guaranteed even if a prior iteration received it.
+
+#### Requirements
+
+The minimum requirements to request this support are as follows:
+
+- The tournament **must** have already run for *at least* two badged iterations in the past, **unless** the committee deems it appropriate to make an exception.
+  - For example, high-quality LAN events run by reputable teams **may** receive support without any prior iterations, at the committee's discretion.
+- All rules, communications, live streams, commentary, match results, and other aspects of the tournament **must** be in English.
+- The tournament **must** be international, **unless** it features a LAN event.
+
+To receive main-menu banners, the following additional criteria **must** be met:
+
+- The viewership of tournament live streams is, or is expected to be, **above average** compared to other tournaments of the same mode.
+- Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
+- You are able to provide the schedule of the matches and livestreams ahead of time.
+
+Hosts may **optionally** request either a news post, main-menu banners, or both. Typically, only Finals and Grand Finals rounds are eligible for main-menu banners, though the committee has discretion on whether to offer more or less support here.
+
+#### Expectations
+
+##### News posts
+
+Hosts requesting news post support **should** do so at least **three weeks** prior to the beginning of the registrations period.
+
+At this time, tournaments receiving this support may only create two posts; one announcing registrations and a second conclusion post detailing final results.
+
+If a news post advertising registrations is denied but all other [requirements](#news-posts--main-menu-banners) are met, a tournament may still be given permission for a conclusionary news post. Hosts and organisers interested in doing so **must** send in a new request after the tournament has concluded.
+
+For assistance with authoring or merging, join the [osu! Discord](https://discord.gg/ppy) and ask for help in the `#osu-wiki` channel.
+
+##### Main-menu banners
+
+**Do not** submit a banner with requests. Hosts will be informed of which rounds they are authorized to create main-menu banners for should the request be approved.
+
+Due to main-menu banners appearing everywhere across osu!, they must be of **exceptionally high** quality. All main-menu banners **must** adhere to these criteria:
+
+- It **must** be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
+- It **must not** include any sort of sponsorship or promote anything besides the tournament.
+- It **must** clearly display the logo, motif, **and** name of your tournament, plus any information about the ongoing stage or section that is being advertised.
+- The submission **must** be a `.png` file.
+- The width **must not** exceed `1000px`. Smaller widths **may** be used.
+- The height **must** be exactly `180px`.
+- All banner images will be treated as `2x`, meaning that they will be exported at 50% scale into a `1x` image. Design your images appropriately to ensure everything is legible at half size. The image shown to users depends on the resolution of their osu! client.
+
+Designers **should** make use of the [asset previewer tool](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) to see how banners will appear in-game.
+
+Below are examples of previously approved main-menu banners:
+
+![](https://assets.ppy.sh/main-menu/corsace-2021/gf3.png)
+
+![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
+
+[**Click to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
 
 ## Revocation of support
 
-The [Tournament Committee](/wiki/People/Tournament_Committee) is responsible for reviewing tournaments for official support eligibility. Should the committee determine that core [eligibility criteria](#criteria) has been violated, official support will be revoked. When this happens, the following occurs:
+The committee is responsible for reviewing tournaments for official support eligibility. Should the committee determine that core [eligibility criteria](#eligibility-criteria) were violated, official support may be revoked. When this happens, the following occurs:
 
 - Profile badge prizes are not awarded.
-- A hosting ban or other sanction may be applied to hosts and co-hosts.
+- A hosting ban or other sanction may be applied to hosts and co-hosts should the committee deem it necessary.
+
+Hosts of tournaments that lose official support will be notified after the [tournament review](/wiki/People/Tournament_Committee#tournament-review) process has concluded.
+
+It is virtually unheard of for a tournament to be denied support prior to its conclusion. This is because the committee does not review tournaments requesting support to ensure eligibility. It is assumed that incoming requests are valid until proven otherwise during tournament review.
 
 ## Expectations
 
@@ -325,61 +394,6 @@ Examples of exceptional tournaments that have met these expectations:
 - [Expert Global Taiko Showdown](/wiki/Tournaments/GTS/EGTS_2022)
 - [Springtime osu!mania Free-for-all Tournament](/wiki/Tournaments/SOFT/6)
 
-### Requesting in-game banner and news post support
-
-Long-running community tournaments may qualify for additional support to enhance their visibility to the playerbase, namely receiving main-menu banners in-game and publication via news posts on the osu! website.
-
-The minimum requirements to request in-game or website advertising support are as follows:
-
-- Your tournament meets the [eligibility criteria for applicable tournaments](#eligibility).
-- The tournament has successfully run for *at least* two badged iterations in the past.
-  - Exceptions can be made at the discretion of the osu! team and the Tournament Committee based on any number of factors, such as size, scope, reach, and supporting team size of a given tournament. A good example of this kind of exception would be an event like the Roundtable.
-- Your tournament streams or otherwise shares its results in clear and legible English.
-
-If you satisfy the above criteria, you may request this support by sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh). This request should include a base-level history of your tournament and its impact upon the community if you have not received this type of support before. Please also note that this additional support is not guaranteed under any circumstances, and is awarded at the osu! team's sole discretion.
-
-We recommend sending any such requests as early as possible to allow time for consideration. News post requests should ideally be sent at least a month in advance.
-
-#### Main-menu banners
-
-Tournaments seeking to be featured on the main menu must also meet the following requirements:
-
-- The livestreams of your current tournament average a reasonable viewership for any game modes featured in them. More popular modes (such as osu!) will be expected to have higher average viewership in order to qualify.
-- Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
-- You are able to provide the schedule of the matches and livestreams ahead of time.
-
-All main-menu banner images must adhere to the following standards:
-
-- The submitted file must be a **PNG**.
-- Width must be no larger than **1000px**. Using smaller widths is fine.
-- Height must always be **180px**. Other values are NOT fine.
-- All banner images will be treated as `2x`, meaning that they will be exported at 50% scale into a `1x` image. Design your images appropriately to ensure things are legible at half size. Users will see either image depending on their chosen client resolution.
-- It must clearly display the logo, motif, AND name of your tournament, plus any information about the ongoing stage or section that is being advertised.
-- It must be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
-- It must not include any sort of sponsorship or promote anything besides the tournament.
-
-[Download a template image for main menu banners here.](https://assets.ppy.sh/media/mainmenu_template.png)
-
-Please consult the following examples of acceptable banner designs:
-
-![](https://assets.ppy.sh/main-menu/corsace-2021/gf3.png)
-
-![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
-
-Use [this banner visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) to check how the banner would look in-game.
-
-Please do not submit a main menu banner with your original request — you will be asked and pointed to this section if you are authorised to make use of one.
-
-#### News posts
-
-While support for advertising and sharing the outcome of your tournament is available via news posts, there are additional requirements that must be considered:
-
-- Tournaments will be expected to provide both one news post for advertising registrations and one for recapping **final** results. Additional news posts are presently not permitted.
-  - If a news post advertising registrations is denied but all other [requirements](#requesting-in-game-banner-and-news-post-support) are met, a tournament may still be given permission for a conclusionary news post. Hosts and organisers interested in doing so should send in a new request after the tournament has concluded.
-- If your tournament is limited to a specific region, it is only eligible to receive news post support if it involves a LAN (a.k.a. an in-person meetup).
-
-Requests for news support will be reviewed by both the Tournament Committee and the osu! news team for suitability.
-
 ## Contact
 
 There are three main ways to get in contact with the committee:
@@ -412,7 +426,7 @@ The following table details **approximate** maximum wait times for common inquir
 | Complex issues requiring resolution by the committee | 2 weeks | 10 days | ![false] |
 | Tournament reports | No response | 10 days | ![false] |
 | Quick questions about basic procedures | 1 week | A few days | 24 hours |
-| Immediate assistance / intervention by the committee | 1 week | 2 days | 24 hours |
+| Immediate assistance / intervention by the committee | 1 week | 2 days | A few hours |
 
 ## FAQ
 
@@ -440,4 +454,8 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 
 [true]: /wiki/shared/true.png "Allowed, preferred"
 [false]: /wiki/shared/false.png "Not allowed"
+
+[yes]: /wiki/shared/true.png "Yes"
+[no]: /wiki/shared/false.png "No"
+
 [partial]: /wiki/shared/partial.png "Allowed, not preferred"
