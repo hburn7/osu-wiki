@@ -87,7 +87,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
     - Any users, organisations, or other entities who can view this information.
     - How the information will be stored and processed.
     - What the information will be used for.
-  - This privacy policy must be present **at the time the forum post was launched**. It may be modified if needed, but tournaments are expected to launch with this information publicly available.
+  - This privacy policy **must** be present **at the time the forum post was launched**. It may be modified if needed, but tournaments are expected to launch with this information publicly available.
   - Modifications to the privacy policy **must** be announced publicly.
 
 ### Quality
@@ -116,14 +116,14 @@ Hosts aiming to achieve this support (cit) **must** achieve as many of these cri
 - The tournament **must** be open rank.
   - Tournaments **may** introduce limitations to the team formation process such as requiring teammates to be from the same region.
   - Drafts, suiji, and other formats that modify the team creation process are permitted.
-- Rules and regulations must be thoroughly thought through and documented **exceptionally well**.
+- Rules and regulations **must** be thoroughly thought through and documented **exceptionally well**.
   - Rules **should not** need to be changed during the course of the event.
-- Rules and regulations **must** be enforced with **extremely high** accuracy. Issues with normal tournament operations should be handled **exceptionally** well.
+- Rules and regulations **must** be enforced with **extremely high** accuracy. Issues with normal tournament operations are expected to be handled **exceptionally** well.
 - Stream overlays and other graphics **must** be of **extremely high** quality.
   - Stream overlays **must** provide an excellent viewing experience, and **must not** have unnecessary clutter, unpolished elements, misaligned text, or text that unpleasantly clashes with background imagery.
   - Stream overlays **should** be fully animated.
   - Animated stinger transitions **should** be used between screens.
-- Stream overlays **must** function **flawlessly** by the time the finals round is reached. While it is understood that bugs and issues occur in early rounds, these should be resolved as early as possible.
+- Stream overlays **must** function **flawlessly** by the time the finals round is reached. While it is understood that bugs and issues occur in early rounds, these **must** be resolved as early as possible.
 - Player and community interest in the tournament **should** be **exceptionally high**.
 - Viewership of late-stage livestreams **should** be among the highest for tournaments of the same mode.
 - The tournament **should** be widely respected and highly anticipated by the community.
@@ -149,23 +149,56 @@ Examples of exceptional tournaments that have met these expectations:
 
 Tournaments requesting official-support **must** adhere to the following:
 
-- All registrants must be screened by the account support team before play commences.[^play-commence] See [screening](#1-screening) for more details.
-- If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
+- All registrants **must** be screened by the account support team before play commences.[^play-commence] See [screening](#1-screening) for more details.
+- If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament **must not** prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://tcomm.hivie.tn/reports/create).
-- A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players may not "self-ref".
-- Every match within the same bracket or qualifier stage should be held in a consistent format. For example, in a tournament which uses a qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
-- All multiplayer matches relevant to the tournament must be created with the `!mp make` command, so that they do not expire. The results must be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
-- All rule changes should be communicated clearly to all participants. Those should keep the expectations noted [above](#tournaments).
+  - Disqualifying a user due to breach of tournament rules is allowed without prior approval. However, hosts **must** document such cases and retain evidence in the event the legitimacy of the disqualification is challenged.
+- A dedicated referee **must** be present during every match, or be available to be summoned with minimal delay (less than five minutes) **if** permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players **must not** "self-ref".
+- Every match within the same bracket or Qualifier stage **must** be held in a consistent format. For example, in a tournament which uses a Qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
+- All multiplayer matches relevant to the tournament **must** be created with the `!mp make` command, so that they do not expire. The results **must** be recorded and made publicly available on the original tournament forum post or an outside source linked on the forum post in a clear and accessible format.
+- All relevant rule changes **must** be communicated clearly to all participants.
 - All relevant links **must** be present and maintained on the tournament's forum post.
-  - The main spreadsheet, online bracket, event website, twitch streams, Discord, and other core links are expected to be on the forum post. Other links, such as statistics, **should** be included on the tournament's main spreadsheet instead.
+  - The main spreadsheet, online bracket, event website, twitch streams, Discord, and other core links are expected to be on the forum post. Other links, such as statistics, **may** be included on the tournament's main spreadsheet instead.
 - All promotional material or services associated with a tournament receiving official support **must** adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
-- All forum threads associated with the tournament must contain this snippit at the very end of the forum post:
+- All forum threads associated with the tournament **must** contain this snippit at the very end of the forum post:
 
 ```
 [centre]
 [url=https://tcomm.hivie.tn/reports/create]Tournament reports form[/url]
 [/centre]
 ```
+
+#### Programs
+
+Third-party programs designed to filter registrants, seed players, or automate the job of a referee **must** be open, transparent, and documented. Any third-party tool used for these purposes **must**:
+
+- Be made publicly and functionally available as an open-source repository. An open-source license **must** be present.
+- Be thoroughly documented in an easily readable and digestible format. Anyone **must** be able to reproduce the outputs using the provided documentation.
+
+Currently, approval for the use of any such tool **must** be **explicitly granted** by the osu! team. Additionally, this approval **must** be granted for **every tournament where programs for registrant filtering, seeding, or automated refereeing are used.** We expect to relax some of these requirements in the future as the technology surrounding these programs develops and experience with using them grows.
+
+#### Registrant filtering and seeding
+
+Registrant filtering, not to be confused with [screening](#1-screening), is the process of using any program, algorithm, mathematical formula, or other objective means to remove otherwise good-standing players from a tournament. This is commonly used to reduce variance in skill within a tournament, e.g. with [BWS](/wiki/Tournaments/Badge-weighted_seeding).
+
+In addition to the expectations for programs above, tools or systems used to filter registrants or seed players **must** also abide by the following practices:
+
+- If a dataset of osu! multiplayer matches, player scores, or otherwise is used, archives **must** be publicly available, downloadable, timestamped, and have the most recent archive be no more than 30 days out of date. Archives **must** remain available for at least 6 months. Documentation **must** be provided explaining how to reproduce the results using it — including code where applicable.
+  - Tournaments using such tools **must** disclose the dates at which they seed and/or filter players using these tools.
+- When doing Qualifiers, the formula or method used to determine seeding **must** be included on the tournament's forum post.
+  - The most commonly used seeding methods and the mathematics behind them can be found on the [Common seeding methods](/wiki/Tournaments/Common_seeding_methods) wiki page.
+
+A third party **should** be able to get the same results without needing additional information. Manually filtering players or adjusting their seeds is strictly prohibited.
+
+#### Automated refereeing
+
+The use of automated refereeing tools are permitted *with some caveats to reflect their cutting-edge nature*. Automated refereeing tools, including bots, **may** receive approval for use in badged tournaments so long as certain requirements are met.
+
+In addition to the expectations for programs above, automated refereeing tools **must** also adhere to the following expectations:
+
+- Potential bots **must** abide by the expectations laid out for [bot accounts](/wiki/Bot_account) for general in-game use. Referee-related tools and software could alternatively be run directly from a user's own account.
+- A human referee **must** always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a `!panic` command inside the lobby itself. When this command is used, all automation should stop until resumed by the human referee.
+- Any ongoing lobbies **should** be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
 ## Requesting support
 
@@ -190,7 +223,7 @@ The screening email **must** be sent to [tournaments@ppy.sh](mailto:tournaments@
 - A brief description of your tournament, including any applicable dates, game modes, and any other appropriate features.
 - Where applicable, links to:
   - The forum thread located under the [tournaments forum](https://osu.ppy.sh/community/forums/55) that announces/details your tournament.
-    - For regional tournaments, the thread may be created in the appropriate language subforum.
+    - For regional tournaments, the thread **may** be created in the appropriate language subforum.
   - Public Discord servers or any other off-site chatrooms used for the event.
   - Previous iterations of the same tournament series (where applicable).
 - A list of the users who have registered to participate in the tournament (see [Roster format](#roster-format)), as a separate attachment.
@@ -255,7 +288,7 @@ Include the following in your email:
 
 ## Additional support
 
-At the committee's discretion, additional support may be awarded to tournaments, such as front-page news posts, main-menu banners, and more.
+At the committee's discretion, additional support **may** be awarded to tournaments, such as front-page news posts, main-menu banners, and more.
 
 ### News posts & main-menu banners
 
@@ -278,7 +311,7 @@ To receive main-menu banners, the following additional criteria **must** be met:
 - Your tournament is nearing its conclusion (e.g. your tournament is at Quarterfinals or above and it started on Round of 32).
 - You are able to provide the schedule of the matches and livestreams ahead of time.
 
-Hosts may **optionally** request either a news post, main-menu banners, or both. Typically, only Finals and Grand Finals rounds are eligible for main-menu banners, though the committee has discretion on whether to offer more or less support here.
+Hosts **may** request either a news post, main-menu banners, or both. Typically, only Finals and Grand Finals rounds are eligible for main-menu banners, though the committee has discretion on whether to offer more or less support here.
 
 #### Expectations
 
@@ -286,9 +319,9 @@ Hosts may **optionally** request either a news post, main-menu banners, or both.
 
 Hosts requesting news post support **should** do so at least **three weeks** prior to the beginning of the registrations period.
 
-At this time, tournaments receiving this support may only create two posts; one announcing registrations and a second conclusion post detailing final results.
+At this time, tournaments receiving this support **may** only create two posts; one announcing registrations and a second conclusion post detailing final results.
 
-If a news post advertising registrations is denied but all other [requirements](#news-posts--main-menu-banners) are met, a tournament may still be given permission for a conclusionary news post. Hosts and organisers interested in doing so **must** send in a new request after the tournament has concluded.
+If a news post advertising registrations is denied but all other [requirements](#news-posts--main-menu-banners) are met, a tournament **may** still be given permission for a conclusionary news post. Hosts and organisers interested in doing so **must** send in a new request after the tournament has concluded.
 
 For assistance with authoring or merging, join the [osu! Discord](https://discord.gg/ppy) and ask for help in the `#osu-wiki` channel.
 
@@ -296,7 +329,7 @@ For assistance with authoring or merging, join the [osu! Discord](https://discor
 
 **Do not** submit a banner with requests. Hosts will be informed of which rounds they are authorized to create main-menu banners for should the request be approved.
 
-Due to main-menu banners appearing everywhere across osu!, they must be of **exceptionally high** quality. All main-menu banners **must** adhere to these criteria:
+Due to main-menu banners appearing everywhere across osu!, they **must** be of **exceptionally high** quality. All main-menu banners **must** adhere to these criteria:
 
 - It **must** be cleanly designed with an emphasis on being mostly transparent and relatively unobtrusive visually.
 - It **must not** include any sort of sponsorship or promote anything besides the tournament.
@@ -329,12 +362,11 @@ Badge images **must** adhere to the following standards:
 - The design **must not** include any sponsorship or promote anything besides the tournament.
 - The design **must not** include any AI-generated assets.
 
-
 Designers **should** make use of the [badge visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=badges) to preview how badges will appear on profiles.
 
-Below are examples of previously approved badge designs:
+Below are examples of exemplary profile badge designs:
 
-![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
+![](https://assets.ppy.sh/profile-badges/corsace-open-22@2x.png) ![](https://assets.ppy.sh/profile-badges/egts-w-2022@2x.png) ![](https://assets.ppy.sh/profile-badges/3WC-2025@2x.png) ![](https://assets.ppy.sh/profile-badges/bb-2022@2x.png)
 
 Submissions that do not meet these standards will be refused with reasoning. In some cases, a complete redesign may be required.
 
@@ -355,37 +387,7 @@ It is virtually unheard of for a tournament to be denied support prior to its co
 
 Tournament organisers are expected to monitor their tournament for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Failure to adhere to this may result in withdrawal of official support.
 
-### Programs
 
-Third-party programs designed to filter registrants, seed players, or automate the job of a referee must be open, transparent, and documented. Any third-party tool used for these purposes must:
-
-- Be made publicly and functionally available as an open-source repository.
-- Be completely documented in an easily readable and digestible format.
-
-Currently, approval for the use of any such tool must be **explicitly granted** by the osu! support team. Additionally, this approval must be granted for **every tournament where programs for registrant filtering, seeding, or automated refereeing are used.** We expect to relax some of these requirements in the future as the technology surrounding these programs develops and experience with using them grows.
-
-### Registrant filtering and seeding
-
-Registrant filtering, not to be confused with [screening](#1-screening), is the process of using any program, algorithm, mathematical formula, or other objective means to remove otherwise good-standing players from a tournament. This is commonly used to reduce variance in skill within a tournament, e.g. with [BWS](/wiki/Tournaments/Badge-weighted_seeding).
-
-In addition to the expectations for programs above, tools or systems used to filter registrants or seed players must also abide by the following practices:
-
-- If a dataset of osu! multiplayer matches, player scores, or otherwise is used, archives must be publicly available, downloadable, timestamped, and have the most recent archive be no more than 30 days out of date. Archives must remain available for at least 6 months. Documentation must be provided explaining how to reproduce the results using it — including code where applicable.
-  - Tournaments using such tools must disclose the dates at which they seed and/or filter players using these tools.
-- When doing qualifiers, the formula or method used to determine seeding must be included in the tournament's ruleset.
-  - The most commonly used seeding methods and the mathematics behind them can be found on the [Common seeding methods](/wiki/Tournaments/Common_seeding_methods) wiki page.
-
-A third party should be able to get the same results without needing additional information. Manually filtering players or adjusting their seeds is strictly prohibited.
-
-### Automated refereeing
-
-The use of automated refereeing tools are permitted *with some caveats to reflect their cutting-edge nature*. Automated refereeing tools, including bots, may receive approval for use in badged tournaments so long as certain requirements are met.
-
-In addition to the expectations for programs above, automated refereeing tools must also adhere to the following expectations:
-
-- Potential bots must abide by the expectations laid out for [bot accounts](/wiki/Bot_account) for general in-game use. Referee-related tools and software could alternatively be run directly from a user's own account.
-- A human referee must always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a `!panic` command inside the lobby itself. When this command is used, all automation should stop until resumed by the human referee.
-- Any ongoing lobbies should be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
 ### Staff
 
@@ -393,24 +395,24 @@ Tournament organisers are expected to ensure that their tournaments run smoothly
 
 With regards to staff roles, the following rules apply:
 
-- Streamers, commentators, and graphic designers may play in the tournament.
-- Eliminated players may be enlisted as referees, mappool playtesters, and/or replay creators.
-- Staff with any role not listed here, may not play in a badged tournament — if you have any doubts, please contact the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
-- Any staff involved in the operation of a tournament in any capacity must not be currently restricted.
+- Streamers, commentators, and graphic designers **may** play in the tournament.
+- Eliminated players **may** be enlisted as referees, mappool playtesters, and/or replay creators.
+- Staff with any role not listed here, **may not** play in a badged tournament — if you have any doubts, please contact the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Any staff involved in the operation of a tournament in any capacity **must not** be currently restricted.
 
-Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They may be enlisted as streamers, commentators, or graphic designers at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They may not act as any other staff role UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
+Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They **may** be enlisted as streamers, commentators, or graphic designers at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They **may not** act as any other staff role UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
 
 At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another officially-supported tournament for at least 4 months. In the event a staffing ban is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
 At the support team's discretion, organisers who make major mistakes that break eligibility rules or expectations for official support may be subject to a hosting ban. Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. While under a hosting ban, users may not be a primary organiser or admin of any officially-supported tournament. They may, however, engage in other roles which do not involve organisation.
 
-A list of all tournament staff must be publicly visible in an easily accessible location. This list may be contained within the tournament's forum post, wiki page, website, or spreadsheet. If there are multiple lists of staff, they must all be up to date and in sync with one another.
+A list of all tournament staff **must** be publicly visible in an easily accessible location. This list **may** be contained within the tournament's forum post, wiki page, website, or spreadsheet. If there are multiple lists of staff, they **must** all be up to date and in sync with one another.
 
 ### Players
 
 Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements. They are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
 
-Additionally, players are expected to have participated in a given tournament in order to qualify for any prizes it may award — simply qualifying as a member of a winning team is not enough. Because there are intangible contributions to teams that players often make without playing maps, only players who *do not play any maps at all* throughout the course of a tournament may be denied a badge prize.
+Additionally, players are expected to have participated in a given tournament in order to qualify for any prizes it **may** award — simply qualifying as a member of a winning team is not enough. Because there are intangible contributions to teams that players often make without playing maps, only players who *do not play any maps at all* throughout the course of a tournament **may** be denied a badge prize.
 
 At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
@@ -452,11 +454,11 @@ The following table details **approximate** maximum wait times for common inquir
 
 ### If a user has not yet played any matches, can they join the staff? {id=no-play-join-staff}
 
-A registrant who has passed screening but has not been scheduled for any matches **AND** has not participated in any gameplay (including qualifiers) is not yet considered a player/participant of the tournament, and may therefore still be enlisted as staff.
+A registrant who has passed screening but has not been scheduled for any matches **AND** has not participated in any gameplay (including qualifiers) is not yet considered a player/participant of the tournament, and **may** therefore still be enlisted as staff.
 
 ### What should I do if a player in my tournament gets restricted? {id=player-restriction}
 
-In the unlikely event that a player becomes restricted during the course of the tournament, you may need to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament. Tournament organisers should contact the account support team to receive information and guidance on these (hopefully rare) cases.
+In the unlikely event that a player becomes restricted during the course of the tournament, you may need to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament. Tournament organisers **should** contact the account support team to receive information and guidance on these (hopefully rare) cases.
 
 ### Why can't badges be awarded to recurring monthly (or weekly) tournaments? {id=recurring-contests}
 
