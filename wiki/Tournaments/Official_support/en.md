@@ -149,7 +149,7 @@ Examples of exceptional tournaments that have met these expectations:
 
 Tournaments requesting official-support **must** adhere to the following:
 
-- All registrants must be screened by the account support team before play commences.[^play-commence] See [tournament screening](#tournament-screening) for more details.
+- All registrants must be screened by the account support team before play commences.[^play-commence] See [screening](#1-screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament must not prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://tcomm.hivie.tn/reports/create).
 - A dedicated referee must be present during every match, or be available to be summoned with minimal delay (2–5 minutes) if appropriate permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players may not "self-ref".
@@ -167,29 +167,73 @@ Tournaments requesting official-support **must** adhere to the following:
 [/centre]
 ```
 
-Once the tournament has concluded, see [2. Conclusion](#2-conclusion) for the post-event submission requirements and prize request process.
-
 ## Requesting support
 
 This section details the procedures hosts must follow to receive official support. It is assumed that tournaments requesting support already satisfy the [eligibility criteria](#eligibility-criteria).
 
 ### 1. Screening
 
-In most cases, the screening email is the first step in the official tournament support process. At a high level, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before bracket-stage matches begin with a screening request. Hosts **should** account for a two-week turnaround time for these requests.
+In most cases, the screening email is the first step in the official tournament support process. Sending the screening email constitutes a request for official support **unless** stated otherwise.
 
-Note that it is possible to request screening without applying for profile badges. Hosts **must** state their intention to not request badge prizes in their screening request.
+Tournaments which are not seeking official support **may** request screening. If so, the host **must** explicitly state they are not seeking support.
 
-The screening email **must** contain:
+#### Overview
+
+At a high level, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before bracket-stage matches begin with a screening request. Hosts are then **required** to disqualify all screened users. This list is provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The expected wait time for a response is **14 days**. If a response is not received by then, [contact the committee](#contact).
+
+Screening exists to protect competitive integrity by preventing users with recent serious infringements or active tournament bans from participating.
+
+#### Contents
+
+The screening email **must** be sent to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) and **must** contain:
 
 - A brief description of your tournament, including any applicable dates, game modes, and any other appropriate features.
 - Where applicable, links to:
-  - The forum thread located under the [Tournaments forum](https://osu.ppy.sh/community/forums/55) that announces/details your tournament.
+  - The forum thread located under the [tournaments forum](https://osu.ppy.sh/community/forums/55) that announces/details your tournament.
     - For regional tournaments, the thread may be created in the appropriate language subforum.
   - Public Discord servers or any other off-site chatrooms used for the event.
-  - Previous iterations of the same tournament series (only where applicable).
-- A list of the users who have registered to participate in the tournament (see [tournament screening](#tournament-screening)), as a separate attachment.
+  - Previous iterations of the same tournament series (where applicable).
+- A list of the users who have registered to participate in the tournament (see [Roster format](#roster-format)), as a separate attachment.
 
-Once we receive your request, the account support team will return a list of users who are ineligible to participate in tournaments. Please allow ample time for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
+Once the request is received, the account support team will return a list of users who are ineligible to participate in tournaments. Specific reasoning is **not** disclosed. Users who wish to inquire about their screening status **must** contact [accounts@ppy.sh](mailto:accounts@ppy.sh) directly.
+
+#### Roster format
+
+Hosts **must** attach a CSV file that lists registrants for screening.
+
+- For solo tournaments, include `username` and `user_id` on each line line.
+- For team-based tournaments, include `username`, `team_name`, and `user_id`, and group players by team.
+
+##### Examples
+
+Head to head:
+
+```csv
+User1,12345
+User2,12346
+User3,12347
+```
+
+Team-based:
+
+```csv
+User1,Team1,12345
+User2,Team1,12346
+User3,Team2,12347
+User4,Team2,12348
+```
+
+#### Scope
+
+All registrants **must** be included in the screening list, **except** in this case:
+
+For events using tryouts, or any other format where a large number of registrants have no chance of participating, hosts **should** wait until final teams are formed before submitting the screening list. In these cases, hosts **should** include designated backups or substitutes to alleviate the impact of a player on the main roster getting screened. This is typically only the case in world-cup-style tournaments.
+
+For clarifications on which registrants are relevant for a particular tournament, [contact the committee](#contact).
+
+#### Enforcement
+
+Allowing users who have failed screening to play will result in an immediate withdrawal of support and may cause future requests for support to be denied.
 
 It is the responsibility of the host to clarify the criteria by [contacting the committee](#contact) prior to submitting the request for support should they have concerns or need clarity on the [eligibility criteria](#eligibility-criteria).
 
@@ -322,7 +366,7 @@ Currently, approval for the use of any such tool must be **explicitly granted** 
 
 ### Registrant filtering and seeding
 
-Registrant filtering, not to be confused with [screening](#tournament-screening), is the process of using any program, algorithm, mathematical formula, or other objective means to remove otherwise good-standing players from a tournament. This is commonly used to reduce variance in skill within a tournament, e.g. with [BWS](/wiki/Tournaments/Badge-weighted_seeding).
+Registrant filtering, not to be confused with [screening](#1-screening), is the process of using any program, algorithm, mathematical formula, or other objective means to remove otherwise good-standing players from a tournament. This is commonly used to reduce variance in skill within a tournament, e.g. with [BWS](/wiki/Tournaments/Badge-weighted_seeding).
 
 In addition to the expectations for programs above, tools or systems used to filter registrants or seed players must also abide by the following practices:
 
@@ -371,37 +415,6 @@ Additionally, players are expected to have participated in a given tournament in
 At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
 ## Other procedures
-
-### Tournament screening
-
-A major part of being an officially supported tournament is access to the screening process. Similar to the "security checks" undertaken by all World Cup players, screening helps prevent users with recent serious infringements or tournament bans from disrupting play.
-
-Tournament organisers will be expected to provide a comma-separated list (or spreadsheet) including usernames and user IDs. If the tournament is team-based, this list must reflect the grouping of users in their teams of play, complete with any team name or other identifying marker.
-
-The comma-separated list should look like this:
-
-```csv
-User1,1234567
-User2,1234567
-User3,1234567
-```
-
-For team-based tournaments, the expected format is:
-
-```csv
-User1,Team1,1234567
-User2,Team1,1234567
-User3,Team2,1234567
-User4,Team2,1234567
-```
-
-Once screening concludes, the account support team will provide a list of any users who failed screening and are not considered eligible for tournament play, without providing specific reasoning. Individual users who are unhappy with their screening outcome should be told to consult [accounts@ppy.sh](mailto:accounts@ppy.sh) via email.
-
-Only players who are participating in the tournament **or** would be likely substitutes for a team made during the course of the tournament should be sent for screening. For example, in a country-based tournament using a tryouts system, organisers are encouraged to send only the players determined to be participating after the tryouts conclude, along with several substitutes for each team in the event they need to participate. For clarifications on which registrants are relevant for screening for a particular tournament, contact the [Tournament Committee](/wiki/People/Tournament_Committee).
-
-**Allowing users that have failed screening to play in your tournament will result in an immediate withdrawal of support and will result in future requests for support to be denied.**
-
- 
 
 ## Contact
 
@@ -457,7 +470,7 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 
 ## Notes
 
-[^play-commence]: Play "commences" once any seedings or brackets have been determined. Therefore, qualifiers may be exempt from this.
+[^play-commence]: Play "commences" once any seedings or brackets have been finalised. Therefore, Qualifiers may be exempt from this.
 [^personal-information]: Personal information is defined as any information that can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
 [^intervention]: After joining the [Discord](https://discord.gg/ppy), navigate to `#tournaments` and ping the `@tournament-committee` role for immediate assistance. Emergency use only.
 
