@@ -134,6 +134,17 @@ Hosts aiming to achieve this support (cit) **must** achieve as many of these cri
   - Saving Twitch livestream recordings and re-publishing to YouTube is recommended.
   - Uploads **should** have thumbnails.
 
+In exceptionally rare cases, tournaments that meet or exceed these expectations **may** be granted the privilege of awarding badges to their top three finalists. This is given exclusively at the discretion of the osu! team.
+
+Hosts seeking this distinction **must** request it when submitting their final badge request. Only tournaments without participation restrictions (e.g., no rank locks and no region locks) are considered for top-three badges.
+
+Examples of exceptional tournaments that have met these expectations:
+
+- [Corsace Open](https://osu.ppy.sh/community/forums/topics/1607468)
+- [Expert Global Taiko Showdown](/wiki/Tournaments/GTS/EGTS_2022)
+- [Springtime osu!mania Free-for-all Tournament](/wiki/Tournaments/SOFT/6)
+- [Project Prism](/wiki/Tournaments/Project_Prism/2024)
+
 ### Regulatory
 
 Tournaments requesting official-support **must** adhere to the following:
@@ -156,27 +167,17 @@ Tournaments requesting official-support **must** adhere to the following:
 [/centre]
 ```
 
-Once the tournament has concluded, the tournament organisers will need to submit the following to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh):
-
-- A list of applicable badge recipients (a.k.a. the winners of your tournament).
-- An appropriately designed badge ([see below](#profile-badges)).
-- Links to the tournament's wiki page, website and/or publicly viewable spreadsheet(s) with:
-  - The tournament's match history with links to all matches, including qualifiers where applicable.
-  - The tournament's mappools.
-  - The tournament's qualifier results, where applicable.
-- All match listings and online brackets **must** be updated with the latest information.
-- All publicly-available staff listings, including spreadsheets and wiki pages, must be **100% accurate** and synchronized with each other.
-  - All staff members who participated in the operation of each match **must** be listed. This **should** be on a publicly-viewable spreadsheet.
-  - When listing these staff members, the exact osu! username **must** be used.
-  - The usernames listed in the spreadsheet **must** match other staff listings.
+Once the tournament has concluded, see [2. Conclusion](#2-conclusion) for the post-event submission requirements and prize request process.
 
 ## Requesting support
 
 This section details the procedures hosts must follow to receive official support. It is assumed that tournaments requesting support already satisfy the [eligibility criteria](#eligibility-criteria).
 
-### 2. Screening
+### 1. Screening
 
 In most cases, the screening email is the first step in the official tournament support process. At a high level, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before bracket-stage matches begin with a screening request. Hosts **should** account for a two-week turnaround time for these requests.
+
+Note that it is possible to request screening without applying for profile badges. Hosts **must** state their intention to not request badge prizes in their screening request.
 
 The screening email **must** contain:
 
@@ -191,6 +192,22 @@ The screening email **must** contain:
 Once we receive your request, the account support team will return a list of users who are ineligible to participate in tournaments. Please allow ample time for a response. We will try our best to handle all requests within a week, but we occasionally have large spikes in workload that can make this impossible.
 
 It is the responsibility of the host to clarify the criteria by [contacting the committee](#contact) prior to submitting the request for support should they have concerns or need clarity on the [eligibility criteria](#eligibility-criteria).
+
+### 2. Conclusion
+
+After the tournament concludes, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) to request profile badge prizes with information pertinent to the review process. Requests **must not** be submitted before the tournament ends. Hosts **should** submit this request as soon as possible after the tournament's conclusion.
+
+Hosts **should** reply to the same email thread used for the screening request to keep things organised.
+
+Include the following in your email:
+
+- A list of badge recipients (the tournament winners).
+- The image used for the profile badge (see [design requirements](#design-requirements)).
+- Links to the forum post and, where applicable, the wiki page, website, and/or publicly viewable spreadsheet(s) with:
+  - Complete match history with links to all matches, including Qualifiers where applicable.
+  - All mappools.
+  - Qualifier or other seeding results, where applicable.
+- Links to any online brackets and match listings.
 
 ## Additional support
 
@@ -254,6 +271,30 @@ Below are examples of previously approved main-menu banners:
 ![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
 
 [**Click to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
+
+## Profile badges
+
+### Design requirements
+
+Badge images **must** adhere to the following standards:
+
+- The submitted file **must** be a PNG.
+- The dimensions **must** be exactly `172x80px`.
+- The design **must** clearly display the tournament’s name, logo, or motif.
+- The design **must** be cleanly produced, legible, and of reasonable visual quality.
+- The design **must not** include any sponsorship or promote anything besides the tournament.
+- The design **must not** include any AI-generated assets.
+
+
+Designers **should** make use of the [badge visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=badges) to preview how badges will appear on profiles.
+
+Below are examples of previously approved badge designs:
+
+![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
+
+Submissions that do not meet these standards will be refused with reasoning. In some cases, a complete redesign may be required.
+
+ 
 
 ## Revocation of support
 
@@ -360,39 +401,7 @@ Only players who are participating in the tournament **or** would be likely subs
 
 **Allowing users that have failed screening to play in your tournament will result in an immediate withdrawal of support and will result in future requests for support to be denied.**
 
-### Profile badges
-
-Officially supported tournaments that satisfy the [expectations above](#expectations) are eligible to request profile badge prizes following completion. We highly recommend requesting profile badge prizes as soon as possible after tournament completion, as this will benefit the [review process](/wiki/People/Tournament_Committee#tournament-review). **Badges will never be approved until after the conclusion of the tournament.**
-
-Profile badge images must adhere to the following standards:
-
-- The submitted file must be a **PNG**.
-- The dimensions must be **172x80px**.
-- It must clearly display the logo, motif, or name of your tournament.
-- It must be cleanly designed and of reasonable visual quality.
-- It must not include any sort of sponsorship or promote anything besides the tournament.
-- It must not include any AI-generated assets.
-- Any assets must be specifically made for the tournament and adhere to the [content usage guidelines](/wiki/Rules/Content_usage_permissions).
-  - This does not include assets that are open-source or public-use (i.e. fonts, icons, etc).
-  - If assets that do not fall into the above category are used in a design, explicit approval from the original artist must be provided before approval.
-
-Please consult the following examples of approved badge designs:
-
-![](https://assets.ppy.sh/profile-badges/ysc4-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/perennial-2021@2x.png) ![](https://assets.ppy.sh/profile-badges/TATHC2023@2x.png)
-
-Use [this badge visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=badges) to help you verify that your badge complies with the above standards.
-
-Badge images that do not meet these standards will be refused with given reasoning, and you may be asked to completely redesign your badge in some cases. This is fairly uncommon, but should be accounted for.
-
-In exceptionally rare cases, a tournament may be granted the privilege of awarding badges to its top three finalists. A tournament that has received this distinction is recognised for attaining the highest level of production quality and organisation possible — this is given exclusively at the discretion of the osu! team. If you believe your tournament meets the expectations to receive this distinction, you may request it when submitting your initial badge request.
-
-Note that badge prizes for the top three finalists will only be considered for tournaments without any restrictions in place for participation, such as being limited to a specific rank range or a specific geographic region.
-
-Examples of exceptional tournaments that have met these expectations:
-
-- [Corsace Open](https://osu.ppy.sh/community/forums/topics/1607468)
-- [Expert Global Taiko Showdown](/wiki/Tournaments/GTS/EGTS_2022)
-- [Springtime osu!mania Free-for-all Tournament](/wiki/Tournaments/SOFT/6)
+ 
 
 ## Contact
 
