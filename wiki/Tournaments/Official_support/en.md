@@ -414,8 +414,6 @@ Additionally, players are expected to have participated in a given tournament in
 
 At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
-## Other procedures
-
 ## Contact
 
 There are three main ways to get in contact with the committee:
