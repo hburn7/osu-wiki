@@ -66,11 +66,6 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
   - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank and have a minimum team size of 8.
     - Note: This applies to a maximum of 2 divisions for global or continental tournaments and 1 division for smaller-scale tournaments.
   - To request official support for an alternate format, hosts **must** [contact the committee](#contact) and receive written approval.
-- The tournament **must** abide by the following content usage rules:
-  - Any beatmaps used in the tournament **must not** have a DMCA takedown notice.
-  - The creation or reuse of any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) **shall not** be used, **unless** they are Ranked, Approved, or Loved.
-    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion. Hosts **must** receive permission from the artist prior to its use in the tournament.
-  - The [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool **should** be used to ensure your tournament mappools are compliant.
 - Tournaments that are not open rank **must not** allow participants whose numeric global rank value is larger than:
   - osu!: 100,000
   - osu!taiko: 10,000
@@ -149,7 +144,12 @@ Examples of exceptional tournaments that have met these expectations:
 
 Tournaments requesting official-support **must** adhere to the following:
 
-- All registrants **must** be screened by the account support team before play commences.[^play-commence] See [screening](#1-screening) for more details.
+- The tournament **must** abide by the following content usage rules:
+  - Any beatmaps used in the tournament **must not** have a DMCA takedown notice.
+  - The creation or reuse of any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) **shall not** be used, **unless** they are Ranked, Approved, or Loved.
+    - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion. Hosts **must** receive permission from the artist prior to its use in the tournament.
+  - The [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool **should** be used to ensure your tournament mappools are compliant.
+- All registrants **must** be screened by the account support team before play commences.[^play-commence] See [screening](#screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament **must not** prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://tcomm.hivie.tn/reports/create).
   - Disqualifying a user due to breach of tournament rules is allowed without prior approval. However, hosts **must** document such cases and retain evidence in the event the legitimacy of the disqualification is challenged.
@@ -204,7 +204,7 @@ In addition to the expectations for programs above, automated refereeing tools *
 
 This section details the procedures hosts must follow to receive official support. It is assumed that tournaments requesting support already satisfy the [eligibility criteria](#eligibility-criteria).
 
-### 1. Screening
+### Screening
 
 In most cases, the screening email is the first step in the official tournament support process. Sending the screening email constitutes a request for official support **unless** stated otherwise.
 
@@ -270,22 +270,6 @@ Allowing users who have failed screening to play will result in an immediate wit
 
 It is the responsibility of the host to clarify the criteria by [contacting the committee](#contact) prior to submitting the request for support should they have concerns or need clarity on the [eligibility criteria](#eligibility-criteria).
 
-### 2. Conclusion
-
-After the tournament concludes, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) to request profile badge prizes with information pertinent to the review process. Requests **must not** be submitted before the tournament ends. Hosts **should** submit this request as soon as possible after the tournament's conclusion.
-
-Hosts **should** reply to the same email thread used for the screening request to keep things organised.
-
-Include the following in your email:
-
-- A list of badge recipients (the tournament winners).
-- The image used for the profile badge (see [design requirements](#design-requirements)).
-- Links to the forum post and, where applicable, the wiki page, website, and/or publicly viewable spreadsheet(s) with:
-  - Complete match history with links to all matches, including Qualifiers where applicable.
-  - All mappools.
-  - Qualifier or other seeding results, where applicable.
-- Links to any online brackets and match listings.
-
 ## Additional support
 
 At the committee's discretion, additional support **may** be awarded to tournaments, such as front-page news posts, main-menu banners, and more.
@@ -349,7 +333,37 @@ Below are examples of previously approved main-menu banners:
 
 [**Click to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
 
+## Conclusion
+
+After the tournament concludes, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) to request profile badge prizes with information pertinent to the review process. Requests **must not** be submitted before the tournament ends. Hosts **should** submit this request as soon as possible after the tournament's conclusion.
+
+Hosts **should** reply to the same email thread used for the screening request to keep things organised.
+
+Include the following in your email:
+
+- A list of badge recipients (the tournament winners).
+- The image used for the profile badge (see [design requirements](#design-requirements)).
+- Links to the forum post and, where applicable, the wiki page, website, and/or publicly viewable spreadsheet(s) with:
+  - All mappools.
+  - Complete match history with links to all matches, including Qualifiers if used.
+  - Qualifier or other seeding results, where applicable.
+- Links to any online brackets and match listings.
+
+### Self check
+
+Hosts **must** review the following items **before** submitting the conclusion email. Checking over these items beforehand will significantly reduce review turnaround times.
+
+- All staff listings are updated and synchronised. Where staff are listed in spreadsheets (e.g. referees assigned to matches), the usernames are current and no nicknames are used.
+- All staff are appropriately credited in any spreadsheets.
+- If using Qualifiers, the seeding method, results, and match links are publicly listed and easily accessible as described in [regulatory](#regulatory). A third-party **must** be able to reproduce the results **exactly** using the provided match links.
+  - Take note of any filtered scores and list them in your email. Sometimes, scores are played by mistake or with the wrong format and are excluded at the spreadsheet level but will still show up in the match data when verifying.
+  - If the Qualifier score values differ from the MP links in any way, the relevant details **must** be stated in the conclusion email. This includes any normalisations of, or other modifications to, in-game mod multipliers.
+- All required links are present on the forum post (see [regulatory](#regulatory)).
+- All online brackets and match listings are updated to include results for all matches.
+
 ## Profile badges
+
+Profile badges are awarded to the winners of tournaments which abide by the [criteria](#eligibility-criteria) and receive official support. Badges are **permanent** additions to user profiles that function similarly to trophies for players. They also represent osu!'s endorsement of the tournaments that award them.
 
 ### Design requirements
 
@@ -366,11 +380,9 @@ Designers **should** make use of the [badge visualisation tool](https://tcomm.hi
 
 Below are examples of exemplary profile badge designs:
 
-![](https://assets.ppy.sh/profile-badges/corsace-open-22@2x.png) ![](https://assets.ppy.sh/profile-badges/egts-w-2022@2x.png) ![](https://assets.ppy.sh/profile-badges/3WC-2025@2x.png) ![](https://assets.ppy.sh/profile-badges/bb-2022@2x.png)
+![](https://assets.ppy.sh/profile-badges/corsace-open-22@2x.png) ![](https://assets.ppy.sh/profile-badges/egts-w-2022@2x.png) ![](https://assets.ppy.sh/profile-badges/PRISM241ST@2x.png)
 
 Submissions that do not meet these standards will be refused with reasoning. In some cases, a complete redesign may be required.
-
- 
 
 ## Revocation of support
 
@@ -381,13 +393,11 @@ The committee is responsible for reviewing tournaments for official support elig
 
 Hosts of tournaments that lose official support will be notified after the [tournament review](/wiki/People/Tournament_Committee#tournament-review) process has concluded.
 
-It is virtually unheard of for a tournament to be denied support prior to its conclusion. This is because the committee does not review tournaments requesting support to ensure eligibility. It is assumed that incoming requests are valid until proven otherwise during tournament review.
+It is virtually unheard of for a tournament to be denied support prior to its conclusion. This is because the committee does not review tournaments requesting support to ensure eligibility. It is assumed that incoming requests are abiding by the criteria until proven otherwise during the review process.
 
 ## Expectations
 
-Tournament organisers are expected to monitor their tournament for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents to the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh). Failure to adhere to this may result in withdrawal of official support.
-
-
+Tournament organisers are expected to monitor their tournament for anything that runs afoul of the expectations outlined below, and are single-handedly responsible for reporting such incidents using the tournament report form (see [contact](#contact)). Failure to adhere to this may result in withdrawal of official support.
 
 ### Staff
 
