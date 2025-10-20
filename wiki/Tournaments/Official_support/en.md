@@ -151,11 +151,11 @@ For each of these tournaments, take note of the design of the forum post and oth
 
 ##### Banger Bonanza 2022
 
-[![](https://i.ppy.sh/4a656f19565e11a7d7589d307dc299c63909956e/68747470733a2f2f696d6775722d617263686976652e7070792e73682f51783730467a4b2e6a706567)](https://osu.ppy.sh/community/forums/topics/1541618?n=1)
+[![](img/bb-banner.jpg)](https://osu.ppy.sh/community/forums/topics/1541618?n=1)
 
 ##### Stage's Tranquility Tournament 4
 
-[![](https://i.ppy.sh/9ae62c97beb630e753bd7ec936153d12ad68ee23/68747470733a2f2f737474342e7374616765632e78797a2f535454345f306d61696e2e706e67)](https://osu.ppy.sh/community/forums/topics/1948257?n=1)
+[![](img/stt4-banner.png)](https://osu.ppy.sh/community/forums/topics/1948257?n=1)
 
 ### Regulatory
 
