@@ -379,9 +379,9 @@ Designers **should** make use of the [asset previewer tool](https://tcomm.hivie.
 
 Below are examples of previously approved main-menu banners:
 
-![](https://assets.ppy.sh/main-menu/corsace-2021/gf3.png)
+![](img/corsace-banner-gf3.png)
 
-![](https://assets.ppy.sh/main-menu/egts-2021/gf.png)
+![](img/egts-banner-gf.png)
 
 [**Click to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
 
