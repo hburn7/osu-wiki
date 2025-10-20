@@ -432,7 +432,7 @@ Designers **should** make use of the [badge visualisation tool](https://tcomm.hi
 
 Below are examples of exemplary profile badge designs:
 
-![](https://assets.ppy.sh/profile-badges/corsace-open-22@2x.png) ![](https://assets.ppy.sh/profile-badges/egts-w-2022@2x.png) ![](https://assets.ppy.sh/profile-badges/PRISM241ST@2x.png)
+![](img/corsace-open-22@2x.png) ![](img/egts-w-2022@2x.png) ![](img/PRISM241ST@2x.png)
 
 Submissions that do not meet these standards will be refused with reasoning. In some cases, a complete redesign may be required.
 
