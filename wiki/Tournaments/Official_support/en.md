@@ -132,16 +132,7 @@ Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support
 
 In exceptionally rare cases, tournaments that meet or exceed these expectations **may** be granted the privilege of awarding badges to their top three finalists. This is given exclusively at the discretion of the osu! team.
 
-Hosts seeking this distinction **must** request it when submitting their final badge request. Only tournaments without participation restrictions (e.g., no rank locks and no region locks) are considered for top-three badges.
-
-##### Examples
-
-Below are examples of tournaments which have met the incredibly high bar for tri-badge support:
-
-- [Corsace Open 2023](https://osu.ppy.sh/community/forums/topics/1794106?n=1)
-- [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/community/forums/topics/2023740?n=1)
-- [Springtime osu!mania Free-for-all Tournament 6](/wiki/Tournaments/SOFT/6)
-- [Project Prism 2024](/wiki/Tournaments/Project_Prism/2024)
+Hosts seeking this distinction **must** request it when submitting their final badge request. Only tournaments without participation restrictions (e.g., no rank locks and no region locks) are considered for top-three badges. See [tri-badge support](#tri-badge-support) for more information.
 
 #### Forum graphics
 
@@ -328,27 +319,6 @@ Long-running tournaments **may** receive additional support to enhance their vis
 
 To request this support, the host **must** send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) detailing the tournament's history, community impact, viewership metrics (if available), and any other evidence supporting the request. The committee has full discretion on whether to award this additional support. Support is not guaranteed even if a prior iteration received it.
 
-### Tri-badge {id=tri-badge-support}
-
-Tri-badge support is reserved for the best of the best open-rank tournaments run by the community. These tournaments are comparable in quality to officially-produced events, such as the [osu! World Cup](/wiki/Tournaments/OWC).
-
-To receive the tri-badge distinction, the tournament must adhere to the below requirements, abide by the [criteria](#eligibility-criteria), and the [tri-badge quality criteria](#tri-badge-quality).
-
-#### Requirements
-
-- The tournament **must** have already run for *at least* two badged iterations in the past, **unless** the committee deems it appropriate to make an exception.
-  - For example, high-quality events run by reputable teams **may** receive this distinction without any prior iterations, at the committee's discretion.
-- All rules, communications, livestreams, commentary, match results, and other aspects of the tournament **must** be in English.
-- The tournament **must** be international, **unless** it features a LAN event.
-
-To receive main-menu banners, the following additional criteria **must** be met:
-
-- The viewership of tournament livestreams is, or is expected to be, **above average** compared to other tournaments of the same mode.
-- The tournament is nearing its conclusion (e.g. at Quarterfinals or above and it started on Round of 32).
-- Hosts are able to provide match and livestream schedules ahead of time.
-
-Hosts **may** request either a news post, main-menu banners, or both. Typically, only Finals and Grand Finals rounds are eligible for main-menu banners, though the committee has discretion on whether to offer more or less support here.
-
 #### Expectations
 
 ##### News posts
@@ -384,6 +354,36 @@ Below are examples of previously approved main-menu banners:
 ![](img/egts-banner-gf.png)
 
 [**Click to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
+
+### Tri-badge {id=tri-badge-support}
+
+Tri-badge support is reserved for the best of the best open-rank tournaments run by the community. These tournaments are comparable in quality to officially-produced events, such as the [osu! World Cup](/wiki/Tournaments/OWC).
+
+To receive the tri-badge distinction, the tournament must adhere to the below requirements, abide by the [criteria](#eligibility-criteria), and the [tri-badge quality criteria](#tri-badge-quality).
+
+#### Requirements
+
+- The tournament **must** have already run for *at least* two badged iterations in the past, **unless** the committee deems it appropriate to make an exception.
+  - For example, high-quality events run by reputable teams **may** receive this distinction without any prior iterations, at the committee's discretion.
+- All rules, communications, livestreams, commentary, match results, and other aspects of the tournament **must** be in English.
+- The tournament **must** be international, **unless** it features a LAN event.
+
+To receive main-menu banners, the following additional criteria **must** be met:
+
+- The viewership of tournament livestreams is, or is expected to be, **above average** compared to other tournaments of the same mode.
+- The tournament is nearing its conclusion (e.g. at Quarterfinals or above and it started on Round of 32).
+- Hosts are able to provide match and livestream schedules ahead of time.
+
+Hosts **may** request either a news post, main-menu banners, or both. Typically, only Finals and Grand Finals rounds are eligible for main-menu banners, though the committee has discretion on whether to offer more or less support here.
+
+#### Examples
+
+Below are examples of tournaments which have received this distinction:
+
+- [Corsace Open 2023](https://osu.ppy.sh/community/forums/topics/1794106?n=1)
+- [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/community/forums/topics/2023740?n=1)
+- [Springtime osu!mania Free-for-all Tournament 6](/wiki/Tournaments/SOFT/6)
+- [Project Prism 2024](/wiki/Tournaments/Project_Prism/2024)
 
 ## Conclusion
 
