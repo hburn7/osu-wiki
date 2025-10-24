@@ -311,29 +311,41 @@ It is the responsibility of the host to clarify the criteria by [contacting the 
 
 ## Additional support
 
-At the committee's discretion, additional support **may** be awarded to tournaments, such as front-page news posts, main-menu banners, and more.
+At the committee's discretion, additional support **may** be awarded to tournaments, such as front-page news posts, main-menu banners, and more. Hosts **may** request either a news post, main-menu banners, or both. Typically, only Finals and Grand Finals rounds are eligible for main-menu banners, though the committee has discretion on whether to offer more or less support here.
 
 ### News posts & main-menu banners
 
-Long-running tournaments **may** receive additional support to enhance their visibility to the playerbase through news posts and main-menu banners. Main-menu banners are hyperlinked images which appear in-game and on the home page of the osu! website during certain match times provided by the host. News posts remain visible on the home page of the osu! website until other news posts supersede it.
+Long-running tournaments **may** receive additional support to enhance their visibility to the playerbase through news posts and main-menu banners.
 
 To request this support, the host **must** send an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) detailing the tournament's history, community impact, viewership metrics (if available), and any other evidence supporting the request. The committee has full discretion on whether to award this additional support. Support is not guaranteed even if a prior iteration received it.
 
-#### Expectations
+#### News posts
 
-##### News posts
+News posts are full articles which remain visible on the home page of the osu! website for a short period. Hosts requesting news post support **should** do so at least **three weeks** prior to the beginning of the registrations period.
 
-Hosts requesting news post support **should** do so at least **three weeks** prior to the beginning of the registrations period.
-
-At this time, tournaments receiving this support **may** only create two posts; one announcing registrations and a second conclusion post detailing final results.
+At this time, a maximum of two news posts are permitted per tournament receiving this support: one announcing registrations and a second conclusion post detailing final results.
 
 If a news post advertising registrations is denied but all other [requirements](#news-posts--main-menu-banners) are met, a tournament **may** still be given permission for a conclusionary news post. Hosts and organisers interested in doing so **must** send in a new request after the tournament has concluded.
 
 For assistance with authoring or merging, join the [osu! Discord](https://discord.gg/ppy) and ask for help in the `#osu-wiki` channel.
 
-##### Main-menu banners
+#### Main-menu banners
+
+Main-menu banners are hyperlinked images which appear in-game and on the home page of the osu! website during certain match times provided by the host.
+
+##### Eligibility
+
+To receive main-menu banners, the following additional criteria **must** be met:
+
+- All rules, communications, livestreams, commentary, match results, and other aspects of the tournament **must** be in English.
+- The tournament **must** be international, **unless** it features a LAN event.
+- The viewership of tournament livestreams is, or is expected to be, **above average** compared to other tournaments of the same mode.
+- The tournament is nearing its conclusion (e.g. at Quarterfinals or above and it started on Round of 32).
+- Hosts are able to provide match and livestream schedules ahead of time.
 
 **Do not** submit a banner with requests. Hosts will be informed of which rounds they are authorized to create main-menu banners for should the request be approved.
+
+##### Banner requirements
 
 Due to main-menu banners appearing everywhere across osu!, they **must** be of **exceptionally high** quality. All main-menu banners **must** adhere to these criteria:
 
@@ -360,21 +372,6 @@ Below are examples of previously approved main-menu banners:
 Tri-badge support is reserved for the best of the best open-rank tournaments run by the community. These tournaments are comparable in quality to officially-produced events, such as the [osu! World Cup](/wiki/Tournaments/OWC).
 
 To receive the tri-badge distinction, the tournament must adhere to the below requirements, abide by the [criteria](#eligibility-criteria), and the [tri-badge quality criteria](#tri-badge-quality).
-
-#### Requirements
-
-- The tournament **must** have already run for *at least* two badged iterations in the past, **unless** the committee deems it appropriate to make an exception.
-  - For example, high-quality events run by reputable teams **may** receive this distinction without any prior iterations, at the committee's discretion.
-- All rules, communications, livestreams, commentary, match results, and other aspects of the tournament **must** be in English.
-- The tournament **must** be international, **unless** it features a LAN event.
-
-To receive main-menu banners, the following additional criteria **must** be met:
-
-- The viewership of tournament livestreams is, or is expected to be, **above average** compared to other tournaments of the same mode.
-- The tournament is nearing its conclusion (e.g. at Quarterfinals or above and it started on Round of 32).
-- Hosts are able to provide match and livestream schedules ahead of time.
-
-Hosts **may** request either a news post, main-menu banners, or both. Typically, only Finals and Grand Finals rounds are eligible for main-menu banners, though the committee has discretion on whether to offer more or less support here.
 
 #### Examples
 
