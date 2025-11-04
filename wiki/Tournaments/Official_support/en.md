@@ -106,7 +106,7 @@ The tri-badge distinction is reserved for tournaments achieving the highest leve
 Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support)) are expected to achieve as many of the below criteria as possible. Items with "**must**" are not optional criteria for those seeking this support.
 
 - The tournament **must not** violate **any** other criteria listed in this article.
-- The tournament **must** be open rank and **must not** be restricted to any specific geogrpahic region.
+- The tournament **must** be open rank and **must not** be restricted to any specific geographic region.
   - Drafts, suiji, and other formats that modify the team creation process are permitted.
 - Rules and regulations **must** be thoroughly thought through and documented **exceptionally well**.
   - Rules **should not** need to be changed during the course of the event.
@@ -127,8 +127,6 @@ Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support
   - Uploads **should** have thumbnails.
 
 In exceptionally rare cases, tournaments that meet or exceed these expectations **may** be granted the privilege of awarding badges to their top three finalists. This is given exclusively at the discretion of the osu! team.
-
-Hosts seeking this distinction **must** request it when submitting their final badge request. Only tournaments without participation restrictions (e.g., no rank locks and no region locks) are considered for top-three badges. See [tri-badge support](#tri-badge-support) for more information.
 
 #### Forum graphics
 
