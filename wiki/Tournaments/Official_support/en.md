@@ -75,14 +75,13 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
 - Tournament organisers **shall not** collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions:
   - Email addresses **may** be collected and used by tournament organisers for any reason **if** it is absolutely necessary for the tournament to function.
   - Personal information **may** be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
-  - Other exceptions to this rule **may** be granted by the osu! team, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
+  - Other exceptions to this rule **may** be granted by the committee, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
   - For tournaments restricting registrations by country, profile flags **should** be used as the basis for entry.
-- In cases where **any** personal information is collected from registrants for any reason, including distribution of prize money:
+- In cases where **any** personal information is collected from registrants for any reason **other than** distribution of prizes:
   - Tournament organisers **must** include a privacy policy on the tournament's forum post and/or wiki page **immediately upon forum post publication** detailing the following:
     - Any users, organisations, or other entities who can view this information.
     - How the information will be stored and processed.
     - What the information will be used for.
-  - This privacy policy **must** be present **at the time the forum post was launched**. It may be modified if needed, but tournaments are expected to launch with this information publicly available.
   - Modifications to the privacy policy **must** be announced publicly.
 
 ### Quality
