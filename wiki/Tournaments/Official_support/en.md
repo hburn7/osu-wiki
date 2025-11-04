@@ -271,7 +271,7 @@ Hosts **must** attach a CSV file that lists registrants for screening.
 
 ##### Examples
 
-Head to head:
+Head-to-head:
 
 ```csv
 User1,12345
