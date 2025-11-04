@@ -144,14 +144,14 @@ For each of these tournaments, take note of the design of the forum post and oth
 
 ### Regulatory
 
-Tournaments requesting official-support **must** adhere to the following:
+Tournaments requesting official support **must** adhere to the following:
 
 - The tournament **must** abide by the following content usage rules:
   - Any beatmaps used in the tournament **must not** have a DMCA takedown notice.
-  - The creation or reuse of any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) **shall not** be used, **unless** they are Ranked, Approved, or Loved.
+  - Using any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) **shall not** be used, **unless** they are Ranked, Approved, or Loved.
     - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion. Hosts **must** receive permission from the artist prior to its use in the tournament.
   - The [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool **should** be used to ensure tournament mappools are compliant.
-- All registrants **must** be screened by the account support team before play commences.[^play-commence] See [screening](#screening) for more details.
+- All registrants **must** be screened by the [account support team](/wiki/People/Account_support_team) before play commences.[^play-commence] See [screening](#screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament **must not** prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://tcomm.hivie.tn/reports/create).
   - Disqualifying a user due to breach of tournament rules is allowed without prior approval. However, hosts **must** document such cases and retain evidence in the event the legitimacy of the disqualification is challenged.
@@ -185,8 +185,7 @@ With regards to staff roles, the following rules apply:
 - Eliminated players **may** be enlisted as referees, mappool playtesters, and/or replay creators.
 - Staff with any role not listed here, **may not** play in a badged tournament — any doubts should be raised to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 - Any staff involved in the operation of a tournament in any capacity **must not** be currently restricted.
-
-Users under an active tournament ban are expected to disclose their tournament ban status to any officially supported tournament they intend to help with. They **may** be enlisted as streamers, commentators, or graphic designers at the host's discretion, but we encourage careful consideration of such choices as said individuals have already infringed upon the rules once (or more). They **may not** act as any other staff role UNLESS the host requests an exemption for them when sending in their initial request for support. The account support team will then assess these on a case-by-case basis with the user's history in mind.
+- Users under an active tournament ban **must** disclose their tournament ban status to any officially supported tournament they intend to help with.
 
 At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another officially-supported tournament for at least 4 months. In the event a staffing ban is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
 
