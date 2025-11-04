@@ -191,7 +191,7 @@ At the support team's discretion, staff members whose conduct directly results i
 
 At the support team's discretion, organisers who make major mistakes that break eligibility rules or expectations for official support may be subject to a hosting ban. Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. While under a hosting ban, users may not be a primary organiser or admin of any officially-supported tournament. They may, however, engage in other roles which do not involve organisation.
 
-A list of all tournament staff **must** be publicly visible in an easily accessible location. This list **may** be contained within the tournament's forum post, wiki page, website, or spreadsheet. If there are multiple lists of staff, they **must** all be up to date and in sync with one another.
+A list of all tournament staff **must** be publicly visible in an easily accessible location. This list **must** be contained within the tournament's forum post, wiki page, website, **or** spreadsheet. If there are multiple lists of staff, they **must** all be up to date and in sync with one another.
 
 #### Player expectations
 
