@@ -19,10 +19,10 @@ This article was last updated on TODO: DATE. A complete changelog is maintained 
 
 To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.ietf.org/rfc/rfc2119.txt) are adopted. These terms are used in **bold** to differentiate between what is strictly required, what is suggested, and what is optional.
 
-- **Must** - This word, or the terms **required** or **shall**, represent an absolute requirement.
-- **Must not** - This phrase, or the phrase **shall not**, represents an absolute prohibition.
-- **Should** - This word, or the adjective **recommended**, means that there may exist valid reasons to ignore a particular item, but the full implications must be understood before deviating from the recommended course of action.
-- **May** - This word, or the adjective **optional**, means that an item is truly optional. These terms are often followed by specific conditions which must be met before the optional component is realised. In these cases, the words **if** or **unless** are used to define the conditions.
+- **Must** - This word—or the terms **required** or **shall**—represent an absolute requirement.
+- **Must not** - This phrase—or the phrase **shall not**—represents an absolute prohibition.
+- **Should** - This word—or the adjective **recommended**—means that there may exist valid reasons to ignore a particular item, but the full implications must be understood before deviating from the recommended course of action.
+- **May** - This word—or the adjective **optional**—means that an item is truly optional. These terms are often followed by specific conditions which must be met before the optional component is realised. In these cases, the words **if** or **unless** are used to define the conditions.
 
 ## Foreword
 
