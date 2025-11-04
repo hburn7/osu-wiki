@@ -106,9 +106,7 @@ The tri-badge distinction is reserved for tournaments achieving the highest leve
 Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support)) are expected to achieve as many of the below criteria as possible. Items with "**must**" are not optional criteria for those seeking this support.
 
 - The tournament **must not** violate **any** other criteria listed in this article.
-- The tournament **must not** allow tournament-banned staff members in any capacity. This clause supersedes rules which allow certain tournament-banned staff to participate.
-- The tournament **must** be open rank.
-  - Tournaments **may** introduce limitations to the team formation process such as requiring teammates to be from the same region.
+- The tournament **must** be open rank and **must not** be restricted to any specific geogrpahic region.
   - Drafts, suiji, and other formats that modify the team creation process are permitted.
 - Rules and regulations **must** be thoroughly thought through and documented **exceptionally well**.
   - Rules **should not** need to be changed during the course of the event.
@@ -123,7 +121,7 @@ Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support
 - The tournament **should** be widely respected and highly anticipated by the community.
 - The level of competition **must** be **extremely high**.
 - A tournament website **may** be used. **If** so, it **must** function **exceptionally** well. A website that does not match the rest of the tournament's quality is worse than no website at all.
-- A vast majority of matches **must** be livestreamed with **high-quality** commentary in 1920x1080 resolution or better. The goal **should** be to stream, commentate, and/or record all matches.
+- A vast majority of matches **must** be livestreamed with **high-quality** commentary. The **recommended** broadcast resolution is 1920x1080 at 60FPS. The goal **should** be to stream and commentate as many matches as possible.
 - Barring exceptional circumstances, livestreams **must** be recorded. Recordings **must** be preserved and **should** be elegantly curated.
   - Saving livestream recordings and re-publishing to a video hosting platform, such as YouTube, is **recommended**.
   - Uploads **should** have thumbnails.
