@@ -266,7 +266,7 @@ Once the request is received, the account support team will return a list of use
 
 Hosts **must** attach a CSV file that lists registrants for screening.
 
-- For solo tournaments, include `username` and `user_id` on each line line.
+- For solo tournaments, include the `username` and `user_id` on each line.
 - For team-based tournaments, include `username`, `team_name`, and `user_id`, and group players by team.
 
 ##### Examples
