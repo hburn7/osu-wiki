@@ -28,7 +28,7 @@ To reduce ambiguity, the words and phrases defined in [RFC-2119](https://www.iet
 
 It is incredibly important that tournament hosts and co-hosts understand the weight of choosing to request official support. While there are many benefits, there are also many potential downsides should the tournament fail to adhere to the criteria, including account action and reputational damage. Tournament hosts **must** be prepared to adhere to all [eligibility criteria](#eligibility-criteria) prior to submitting the support request.
 
-Thus, the committee **strongly recommends** that prospective hosts first staff in several tournaments in a variety of roles - at least as a referee - before hosting **any** tournament. It is then **recommended** to request official support after hosting at least one tournament without requesting support.
+Thus, the committee **strongly recommends** that prospective hosts first staff in several tournaments in a variety of roles—at least as a referee—before hosting **any** tournament. It is then **recommended** to request official support after hosting at least one tournament without requesting support.
 
 The committee expects tournament hosts requesting this support to follow all criteria exactly as written. Hosts and co-hosts are all equally, chiefly responsible for the success of their tournaments and will generally be actioned equally should it be warranted. So long as an avenue exists such that host action could have prevented the denial of support, they will be held responsible.
 
@@ -44,11 +44,11 @@ Tournaments which are granted official support receive the following:
 
 ## Eligibility criteria
 
-Tournaments requesting official support (and any associated preliminary events) **must** adhere to the eligibility criteria.
+Tournaments requesting official support (and any associated preliminary events[^preliminary-event]) **must** adhere to the eligibility criteria.
 
-### Principals
+### Core ideals
 
-Community-run tournaments receiving this support **must** abide by the following general ideals:
+Community-run tournaments receiving this support **must** abide by the following core ideals:
 
 - Remain free and fair.
 - Be as transparent as possible.
@@ -65,7 +65,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
   - Larger formats, such as group stages and Swiss brackets, **may** also be used **if** they start with at least 16 teams and, if applicable and if starting with only 16 teams, break to a double-elimination bracket afterwards.
   - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank and have a minimum team size of 8.
     - Note: This applies to a maximum of 2 divisions for global or continental tournaments and 1 division for smaller-scale tournaments.
-  - To request official support for an alternate format, hosts **must** [contact the committee](#contact) and receive written approval.
+  - To request official support for an alternate format, hosts **must** [contact the committee](#contact) and receive written approval **before** accepting registrations for the event.
 - Tournaments that are not open rank **must not** allow participants whose numeric global rank value is larger than:
   - osu!: 100,000
   - osu!taiko: 10,000
@@ -73,7 +73,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
   - osu!mania 4K: 40,000
   - osu!mania 7K: 5,000
 - Tournament organisers **shall not** collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions:
-  - Email addresses **may** be collected and used by tournament organisers for any reason so long as it is necessary for the tournament to function.
+  - Email addresses **may** be collected and used by tournament organisers for any reason **if** it is absolutely necessary for the tournament to function.
   - Personal information **may** be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
   - Other exceptions to this rule **may** be granted by the osu! team, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
   - For tournaments restricting registrations by country, profile flags **should** be used as the basis for entry.
@@ -498,14 +498,11 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 
 ## Notes
 
-[^play-commence]: Play "commences" once any seedings or brackets have been finalised. Therefore, Qualifiers may be exempt from this.
-[^personal-information]: Personal information is defined as any information that can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
 [^intervention]: After joining the [Discord](https://discord.gg/ppy), navigate to `#tournaments` and ping the `@tournament-committee` role for immediate assistance. Emergency use only.
+[^personal-information]: Personal information is defined as any information that can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
+[^play-commence]: Play "commences" once any seedings or brackets have been finalised. Therefore, Qualifiers may be exempt from this.
+[^preliminary-event]: Other tournaments which are referenced for entry into another are considered preliminary.
 
 [true]: /wiki/shared/true.png "Allowed, preferred"
 [false]: /wiki/shared/false.png "Not allowed"
-
-[yes]: /wiki/shared/true.png "Yes"
-[no]: /wiki/shared/false.png "No"
-
 [partial]: /wiki/shared/partial.png "Allowed, not preferred"
