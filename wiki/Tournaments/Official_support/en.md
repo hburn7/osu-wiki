@@ -208,7 +208,7 @@ Third-party programs designed to filter registrants, seed players, or automate t
 - Be made publicly and functionally available as an open-source repository. An open-source license **must** be present.
 - Be thoroughly documented in an easily readable and digestible format. Anyone **must** be able to reproduce the outputs using the provided documentation.
 
-Currently, approval for the use of any such tool **must** be **explicitly granted** by the osu! team. Additionally, this approval **must** be granted for **every tournament where programs for registrant filtering, seeding, or automated refereeing are used.** We expect to relax some of these requirements in the future as the technology surrounding these programs develops and experience with using them grows.
+Currently, approval for the use of any such tool **must** be **explicitly granted** by the committee. Additionally, this approval **must** be granted for every tournament where programs for registrant filtering, seeding, or automated refereeing are used.
 
 #### Registrant filtering and seeding
 
