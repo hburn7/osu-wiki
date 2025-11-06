@@ -113,8 +113,7 @@ Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support
 - Rules and regulations **must** be enforced with **extremely high** accuracy. Issues with normal tournament operations are expected to be handled **exceptionally** well.
 - Stream overlays and other graphics **must** be of **extremely high** quality.
   - Stream overlays **must** provide an excellent viewing experience, and **must not** have unnecessary clutter, unpolished elements, misaligned text, or text that unpleasantly clashes with background imagery.
-  - Stream overlays **should** be fully animated.
-  - Animated stinger transitions **should** be used between screens.
+  - Stream overlays **should** be animated.
 - Stream overlays **must** function **flawlessly** by the time the finals round is reached. While it is understood that bugs and issues occur in early rounds, these **must** be resolved as early as possible.
 - Player and community interest in the tournament **should** be **exceptionally high**.
 - Viewership of late-stage livestreams **should** be among the highest for tournaments of the same mode.
@@ -361,8 +360,6 @@ Below are examples of previously approved main-menu banners:
 [**Click to download the main-menu banner template image.**](https://assets.ppy.sh/media/mainmenu_template.png)
 
 ### Tri-badge {id=tri-badge-support}
-
-Tri-badge support is reserved for the best of the best open-rank tournaments run by the community. These tournaments are comparable in quality to officially-produced events, such as the [osu! World Cup](/wiki/Tournaments/OWC).
 
 To receive the tri-badge distinction, the tournament must adhere to the below requirements, abide by the [criteria](#eligibility-criteria), and the [tri-badge quality criteria](#tri-badge-quality).
 
