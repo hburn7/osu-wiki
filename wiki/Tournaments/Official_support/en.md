@@ -229,7 +229,7 @@ The use of automated refereeing tools are permitted *with some caveats to reflec
 In addition to the expectations for programs above, automated refereeing tools **must** also adhere to the following expectations:
 
 - Potential bots **must** abide by the expectations laid out for [bot accounts](/wiki/Bot_account) for general in-game use. Referee-related tools and software could alternatively be run directly from a user's own account.
-- A human referee **must** always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a `!panic` command inside the lobby itself. When this command is used, all automation should stop until resumed by the human referee.
+- A human referee **must** always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a `!panic` command inside the lobby itself. When this command is used, all automation **must** stop until resumed by the human referee.
 - Any ongoing lobbies **must** be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
 ## Requesting support
@@ -303,7 +303,7 @@ It is the responsibility of the host to clarify the criteria by [contacting the 
 
 ## Additional support
 
-At the committee's discretion, additional support **may** be awarded to tournaments, such as front-page news posts, main-menu banners, and more. Hosts **may** request either a news post, main-menu banners, or both. Typically, only Finals and Grand Finals rounds are eligible for main-menu banners, though the committee has discretion on whether to offer more or less support here.
+At the committee's discretion, additional support **may** be awarded to tournaments, such as front-page news posts, main-menu banners, and more. Hosts **may** request either a news post, main-menu banners, or both. Typically, only Finals and Grand Finals rounds are eligible for main-menu banners, though the committee has discretion on whether to offer more support here.
 
 ### News posts & main-menu banners
 
@@ -313,7 +313,7 @@ To request this support, the host **must** send an email to [tournaments@ppy.sh]
 
 #### News posts
 
-News posts are full articles which remain visible on the home page of the osu! website for a short period. Hosts requesting news post support **should** do so at least **three weeks** prior to the beginning of the registrations period.
+News posts are full articles which appear on the home page of the osu! website for a short period. Hosts requesting news post support **should** do so at least **three weeks** prior to the beginning of the registrations period.
 
 At this time, a maximum of two news posts are permitted per tournament receiving this support: one announcing registrations and a second conclusion post detailing final results.
 
@@ -330,12 +330,12 @@ Main-menu banners are hyperlinked images which appear in-game and on the home pa
 To receive main-menu banners, the following additional criteria **must** be met:
 
 - All rules, communications, livestreams, commentary, match results, and other aspects of the tournament **must** be in English.
-- The tournament **must** be international, **unless** it features a LAN event.
+- The tournament **must not** be restricted to a specific geographic region, **unless** it features a LAN event.
 - The viewership of tournament livestreams is, or is expected to be, **above average** compared to other tournaments of the same mode.
 - The tournament is nearing its conclusion (e.g. at Quarterfinals or above and it started on Round of 32).
 - Hosts are able to provide match and livestream schedules ahead of time.
 
-**Do not** submit a banner with requests. Hosts will be informed of which rounds they are authorized to create main-menu banners for should the request be approved.
+**Do not** submit a banner with requests. Hosts will be informed of which rounds they are authorised to create main-menu banners for should the request be approved.
 
 ##### Banner requirements
 
@@ -349,7 +349,7 @@ Due to main-menu banners appearing everywhere across osu!, they **must** be of *
 - The height **must** be exactly `180px`.
 - All banner images will be treated as `2x`, meaning that they will be exported at 50% scale into a `1x` image. Design the images appropriately to ensure everything is legible at half size. The image shown to users depends on the resolution of their osu! client.
 
-Designers **should** make use of the [asset previewer tool](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) to see how banners will appear in-game.
+Designers **should** make use of the [asset previewer tool](https://tcomm.hivie.tn/assets-previewer?tab=in-game-banners) to see how banners will appear in-game and on the website.
 
 Below are examples of previously approved main-menu banners:
 
@@ -402,13 +402,13 @@ Hosts **must** review the following items **before** submitting the conclusion e
 
 ## Profile badges
 
-Profile badges are awarded to the winners of tournaments which abide by the [criteria](#eligibility-criteria) and receive official support. Badges are **permanent** additions to user profiles that function similarly to trophies for players. They also represent osu!'s endorsement of the tournaments that award them.
+Profile badges are awarded to the winners of tournaments which abide by the [eligibility criteria](#eligibility-criteria) and receive official support. Badges are **permanent** additions to user profiles that function similarly to trophies for players. They also represent osu!'s endorsement of the tournaments that award them.
 
 ### Design requirements
 
 Badge images **must** adhere to the following standards:
 
-- The submitted file **must** be a PNG.
+- The submitted file **must** be a `.png` file.
 - The dimensions **must** be exactly `172x80px`.
 - The design **must** clearly display the tournament’s name, logo, or motif.
 - The design **must** be cleanly produced, legible, and of reasonable visual quality.
@@ -460,7 +460,7 @@ The following table details **approximate** maximum wait times for common inquir
 | Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy) |
 | :-- | :-- | :-- | :-- |
 | Official tournament support requests / screening | 2 weeks | ![false] | ![false] |
-| News post and main-menu banner requests | 3 weeks | ![false] | ![false] |
+| News post and main-menu banner requests | 2 weeks | ![false] | ![false] |
 | Simple tournament format approval requests | 2 weeks | 1 week | ![false] |
 | Complex or novel tournament format approval requests | 3 weeks | 2 weeks | ![false] |
 | Complex issues requiring resolution by the committee | 2 weeks | 10 days | ![false] |
@@ -476,7 +476,7 @@ A registrant who has passed screening but has not been scheduled for any matches
 
 ### What should I do if a player in my tournament gets restricted? {id=player-restriction}
 
-In the unlikely event that a player becomes restricted during the course of the tournament, it may be necessary to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament. Tournament organisers **should** contact the account support team to receive information and guidance on these (hopefully rare) cases.
+In the unlikely event that a player becomes restricted during the course of the tournament, it may be necessary to replay certain matches where they were involved in order to preserve the competitive integrity of the tournament. Tournament organisers **should** contact the [account support team](/wiki/People/Account_support_team) to receive information and guidance on these (hopefully rare) cases.
 
 ### Why can't badges be awarded to recurring monthly (or weekly) tournaments? {id=recurring-contests}
 
