@@ -3,6 +3,7 @@ tags:
   - badge
   - badges
   - badged
+  - screening
 ---
 
 # Official tournament support
@@ -244,7 +245,7 @@ Tournaments which are not seeking official support **may** request screening. If
 
 #### Overview
 
-At a high level, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before bracket-stage matches begin with a screening request. Hosts are then **required** to disqualify all screened users. This list is provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The expected wait time for a response is **14 days**. If a response is not received by then, [contact the committee](#contact).
+At a high level, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before bracket-stage matches begin with a screening request. Hosts are then **required** to disqualify all screened users. This list is provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The typical wait time for a response is **10-14 days**. If a response is not received after 14 days, [contact the committee](#contact).
 
 Screening exists to protect competitive integrity by preventing users with recent serious infringements or active tournament bans from participating.
 
@@ -263,7 +264,7 @@ Once the request is received, the account support team will return a list of use
 
 #### Registrants
 
-Hosts **must** attach a CSV file that lists registrants for screening.
+Hosts **must** attach a spreadsheet / CSV file that lists registrants for screening.
 
 - For solo tournaments, include the `username` and `user_id` on each line.
 - For team-based tournaments, include `username`, `team_name`, and `user_id`, and group players by team.
@@ -315,9 +316,9 @@ To request this support, the host **must** send an email to [tournaments@ppy.sh]
 
 News posts are full articles which appear on the home page of the osu! website for a short period. Hosts requesting news post support **should** do so at least **three weeks** prior to the beginning of the registrations period.
 
-At this time, a maximum of two news posts are permitted per tournament receiving this support: one announcing registrations and a second conclusion post detailing final results.
+At this time, a maximum of two news posts are permitted per tournament receiving this support: one post announcing registrations and a second conclusion post detailing final results.
 
-If a news post advertising registrations is denied but all other [requirements](#news-posts--main-menu-banners) are met, a tournament **may** still be given permission for a conclusionary news post. Hosts and organisers interested in doing so **must** send in a new request after the tournament has concluded.
+If a news post advertising registrations is denied, the committee **may** inform hosts of their potential eligibility for a conclusionary news post. Hosts and organisers interested in doing so **must** send in a new request after the tournament has concluded.
 
 For assistance with authoring or merging, join the [osu! Discord](https://discord.gg/ppy) and ask for help in the `#osu-wiki` channel.
 
