@@ -364,6 +364,8 @@ Below are examples of previously approved main-menu banners:
 
 To receive the tri-badge distinction, the tournament must adhere to the below requirements, abide by the [criteria](#eligibility-criteria), and the [tri-badge quality criteria](#tri-badge-quality).
 
+Hosts requesting tri-badge support will experience prolonged review times.
+
 #### Examples
 
 Below are examples of tournaments which have received this distinction:
@@ -393,7 +395,7 @@ Include the following in the email:
 
 Hosts **must** review the following items **before** submitting the conclusion email. Checking over these items beforehand will significantly reduce review turnaround times.
 
-- All staff listings are updated and synchronised. Where staff are listed in spreadsheets (e.g. referees assigned to matches), the usernames are current and no nicknames are used.
+- All staff listings are updated and synchronised. Where staff are listed in spreadsheets (e.g. referees assigned to matches), usernames **must** be consistent throughout.
 - All staff are appropriately credited in any spreadsheets.
 - If using Qualifiers, the seeding method, results, and match links are publicly listed and easily accessible as described in [regulatory](#regulatory). A third-party **must** be able to reproduce the results **exactly** using the provided match links.
   - Take note of any filtered scores and list them in the email. Sometimes, scores are played by mistake or with the wrong format and are excluded at the spreadsheet level but will still show up in the match data when verifying.
@@ -415,8 +417,14 @@ Badge images **must** adhere to the following standards:
 - The design **must** be cleanly produced, legible, and of reasonable visual quality.
 - The design **must not** include any sponsorship or promote anything besides the tournament.
 - The design **must not** include any AI-generated assets.
+- The design **must** be original and be made specifically for the tournament.
+- The design **must not** use any drawings or artwork without the permission from any rights holders.
+
+The committee reserves the right to require a badge be redesigned for any reason.
 
 Designers **should** make use of the [badge visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=badges) to preview how badges will appear on profiles.
+
+### Examples
 
 Below are examples of exemplary profile badge designs:
 
