@@ -134,9 +134,9 @@ Below are header images used in various community tournaments which did not rece
 
 For each of these tournaments, take note of the design of the forum post and other imagery used across the forum post and tournament spreadsheets.
 
-##### Banger Bonanza 2022
+##### osu! finnish tournament 9
 
-[![](img/bb-banner.jpg)](https://osu.ppy.sh/community/forums/topics/1541618?n=1)
+[![](img/oft9-banner.png)](https://osu.ppy.sh/community/forums/topics/2107540?n=1)
 
 ##### Stage's Tranquility Tournament 4
 
