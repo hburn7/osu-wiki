@@ -100,33 +100,6 @@ Officially-supported tournaments **must** meet certain quality standards and mai
 - There **should not** be many organisational problems, such as issues with holding matches on time.
 - Rules **must** be enforced consistently. Rules **must** be written in a way that proactively removes ambiguity.
 
-#### Tri-badge {id=tri-badge-quality}
-
-The tri-badge distinction is reserved for tournaments achieving the highest level of production quality possible in osu! tournaments. In general, it should be **obvious** the tournament is worthy of receiving the distinction due to its outstanding quality, competition, and community impact.
-
-Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support)) are expected to achieve as many of the below criteria as possible.
-
-- The tournament **must not** violate **any** other criteria listed in this article.
-- The tournament **must** be open rank and **must not** be restricted to any specific geographic region.
-- Rules and regulations **must** be thoroughly thought through and documented **exceptionally well**.
-  - Rules **should not** need to be changed during the course of the event.
-- Rules and regulations **must** be enforced with **extremely high** accuracy. Issues with normal tournament operations are expected to be handled **exceptionally** well.
-- Stream overlays and other graphics **must** be of **extremely high** quality.
-  - Stream overlays **must** provide an excellent viewing experience, and **must not** have unnecessary clutter, unpolished elements, misaligned text, or text that unpleasantly clashes with background imagery.
-  - Stream overlays **should** be animated.
-- Stream overlays **must** function **flawlessly** by the time the finals round is reached. While it is understood that bugs and issues occur in early rounds, these **must** be resolved as early as possible.
-- Player and community interest in the tournament **should** be **exceptionally high**.
-- Viewership of late-stage livestreams **should** be among the highest for tournaments of the same mode.
-- The tournament **should** be widely respected and highly anticipated by the community.
-- The level of competition **must** be **extremely high**.
-- A tournament website **may** be used. **If** so, it **must** function **exceptionally** well. A website that does not match the rest of the tournament's quality is worse than no website at all.
-- A vast majority of matches **must** be livestreamed with **high-quality** commentary. The **recommended** broadcast resolution is 1920x1080 at 60FPS. The goal **should** be to stream and commentate as many matches as possible.
-- Barring exceptional circumstances, livestreams **must** be recorded. Recordings **must** be preserved and **should** be elegantly curated.
-  - Saving livestream recordings and re-publishing to a video hosting platform, such as YouTube, is **recommended**.
-  - Uploads **should** have thumbnails.
-
-In exceptionally rare cases, tournaments that meet or exceed these expectations **may** be granted the privilege of awarding badges to their top three finalists. This is given exclusively at the discretion of the osu! team.
-
 #### Graphics
 
 Below are header images used in various community tournaments. These headers should be used as a reference for **above average** graphics quality. This level of quality should be aimed for by tournaments seeking official support.
@@ -364,6 +337,34 @@ Below are examples of previously approved main-menu banners:
 To receive the tri-badge distinction, the tournament must adhere to the below requirements, abide by the [criteria](#eligibility-criteria), and the [tri-badge quality criteria](#tri-badge-quality).
 
 Hosts requesting tri-badge support will experience prolonged review times.
+
+#### Tri-badge {id=tri-badge-quality}
+
+The tri-badge distinction is reserved for tournaments achieving the highest level of production quality possible in osu! tournaments. In general, it should be **obvious** the tournament is worthy of receiving the distinction due to its outstanding quality, competition, and community impact.
+
+Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support)) are expected to achieve as many of the below criteria as possible.
+
+- The tournament **must not** violate **any** other criteria listed in this article.
+- The tournament **must** be open rank and **must not** be restricted to any specific geographic region.
+- Rules and regulations **must** be thoroughly thought through and documented **exceptionally well**.
+  - Rules **should not** need to be changed during the course of the event.
+- Rules and regulations **must** be enforced with **extremely high** accuracy. Issues with normal tournament operations are expected to be handled **exceptionally** well.
+- Stream overlays and other graphics **must** be of **extremely high** quality.
+  - Stream overlays **must** provide an excellent viewing experience, and **must not** have unnecessary clutter, unpolished elements, misaligned text, or text that unpleasantly clashes with background imagery.
+  - Stream overlays **should** be animated.
+- Stream overlays **must** function **flawlessly** by the time the finals round is reached. While it is understood that bugs and issues occur in early rounds, these **must** be resolved as early as possible.
+- Player and community interest in the tournament **should** be **exceptionally high**.
+- Viewership of late-stage livestreams **should** be among the highest for tournaments of the same mode.
+- The tournament **should** be widely respected and highly anticipated by the community.
+- The level of competition **must** be **extremely high**.
+- A tournament website **may** be used. **If** so, it **must** function **exceptionally** well. A website that does not match the rest of the tournament's quality is worse than no website at all.
+- A vast majority of matches **must** be livestreamed with **high-quality** commentary. The **recommended** broadcast resolution is 1920x1080 at 60FPS. The goal **should** be to stream and commentate as many matches as possible.
+- Barring exceptional circumstances, livestreams **must** be recorded. Recordings **must** be preserved and **should** be elegantly curated.
+  - Saving livestream recordings and re-publishing to a video hosting platform, such as YouTube, is **recommended**.
+  - Uploads **should** have thumbnails.
+
+In exceptionally rare cases, tournaments that meet or exceed these expectations **may** be granted the privilege of awarding badges to their top three finalists. This is awarded at the committee's discretion.
+
 
 #### Examples
 
