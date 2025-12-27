@@ -212,7 +212,7 @@ Currently, approval for the use of any such tool **must** be **explicitly grante
 
 #### Registrant filtering and seeding
 
-Registrant filtering, not to be confused with [screening](#1-screening), is the process of using any program, algorithm, mathematical formula, or other objective means to remove otherwise good-standing players from a tournament. This is commonly used to reduce variance in skill within a tournament, e.g. with [BWS](/wiki/Tournaments/Badge-weighted_seeding).
+Registrant filtering, not to be confused with [screening](#screening), is the process of using any program, algorithm, mathematical formula, or other objective means to remove otherwise good-standing players from a tournament. This is commonly used to reduce variance in skill within a tournament, e.g. with [BWS](/wiki/Tournaments/Badge-weighted_seeding).
 
 In addition to the expectations for programs above, tools or systems used to filter registrants or seed players **must** also abide by the following practices:
 
@@ -306,7 +306,7 @@ It is the responsibility of the host to clarify the criteria by [contacting the 
 
 At the committee's discretion, additional support **may** be awarded to tournaments, such as front-page news posts, main-menu banners, and more. Hosts **may** request either a news post, main-menu banners, or both. Typically, only Finals and Grand Finals rounds are eligible for main-menu banners, though the committee has discretion on whether to offer more support here.
 
-### News posts & main-menu banners
+### News posts & main-menu banners {id=requesting-in-game-banner-and-news-post-support}
 
 Long-running tournaments **may** receive additional support to enhance their visibility to the playerbase through news posts and main-menu banners.
 
