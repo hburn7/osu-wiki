@@ -334,7 +334,7 @@ Below are examples of previously approved main-menu banners:
 
 ### Tri-badge {id=tri-badge-support}
 
-The tri-badge distinction is reserved for tournaments achieving the highest level of production quality possible in osu! tournaments. In general, it should be **obvious** the tournament is worthy of receiving the distinction due to its outstanding quality, competition, and community impact.
+The tri-badge distinction is reserved for tournaments which achieve the highest level of production quality possible in osu! tournaments. In general, it should be **obvious** the tournament is worthy of receiving the distinction due to its outstanding quality, competition, and community impact.
 
 Hosts aiming to achieve this support are expected to adhere to all requirements listed below, and must aim to satisfy as many of the below recommendations as possible:
 
