@@ -334,15 +334,9 @@ Below are examples of previously approved main-menu banners:
 
 ### Tri-badge {id=tri-badge-support}
 
-To receive the tri-badge distinction, the tournament must adhere to the below requirements, abide by the [criteria](#eligibility-criteria), and the [tri-badge quality criteria](#tri-badge-quality).
-
-Hosts requesting tri-badge support will experience prolonged review times.
-
-#### Tri-badge {id=tri-badge-quality}
-
 The tri-badge distinction is reserved for tournaments achieving the highest level of production quality possible in osu! tournaments. In general, it should be **obvious** the tournament is worthy of receiving the distinction due to its outstanding quality, competition, and community impact.
 
-Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support)) are expected to achieve as many of the below criteria as possible.
+Hosts aiming to achieve this support are expected to adhere to all requirements listed below, and must aim to satisfy as many of the below recommendations as possible:
 
 - The tournament **must not** violate **any** other criteria listed in this article.
 - The tournament **must** be open rank and **must not** be restricted to any specific geographic region.
@@ -363,8 +357,7 @@ Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support
   - Saving livestream recordings and re-publishing to a video hosting platform, such as YouTube, is **recommended**.
   - Uploads **should** have thumbnails.
 
-In exceptionally rare cases, tournaments that meet or exceed these expectations **may** be granted the privilege of awarding badges to their top three finalists. This is awarded at the committee's discretion.
-
+At the committee's discretion, tournaments which meet or exceed these expectations **may** be granted the privilege of awarding badges to their top three finalists.
 
 #### Examples
 
