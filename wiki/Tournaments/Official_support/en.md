@@ -104,11 +104,10 @@ Officially-supported tournaments **must** meet certain quality standards and mai
 
 The tri-badge distinction is reserved for tournaments achieving the highest level of production quality possible in osu! tournaments. In general, it should be **obvious** the tournament is worthy of receiving the distinction due to its outstanding quality, competition, and community impact.
 
-Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support)) are expected to achieve as many of the below criteria as possible. Items with "**must**" are not optional criteria for those seeking this support.
+Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support)) are expected to achieve as many of the below criteria as possible.
 
 - The tournament **must not** violate **any** other criteria listed in this article.
 - The tournament **must** be open rank and **must not** be restricted to any specific geographic region.
-  - Drafts, suiji, and other formats that modify the team creation process are permitted.
 - Rules and regulations **must** be thoroughly thought through and documented **exceptionally well**.
   - Rules **should not** need to be changed during the course of the event.
 - Rules and regulations **must** be enforced with **extremely high** accuracy. Issues with normal tournament operations are expected to be handled **exceptionally** well.
@@ -128,11 +127,11 @@ Hosts aiming to achieve this support (see [tri-badge support](#tri-badge-support
 
 In exceptionally rare cases, tournaments that meet or exceed these expectations **may** be granted the privilege of awarding badges to their top three finalists. This is given exclusively at the discretion of the osu! team.
 
-#### Forum graphics
+#### Graphics
 
-Below are header images used in various community tournaments which did not receive any [additional support](#additional-support). These headers should be used as a reference for **above average** graphics quality. This level of quality should be aimed for by tournaments seeking official support.
+Below are header images used in various community tournaments. These headers should be used as a reference for **above average** graphics quality. This level of quality should be aimed for by tournaments seeking official support.
 
-For each of these tournaments, take note of the design of the forum post and other imagery used across the forum post and tournament spreadsheets.
+For each of these tournaments, take note of the design of the forum post and other imagery used across the forum post and spreadsheets.
 
 ##### osu! finnish tournament 9
 
@@ -153,7 +152,7 @@ Tournaments requesting official support **must** adhere to the following:
   - The [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool **should** be used to ensure tournament mappools are compliant.
 - All registrants **must** be screened by the [account support team](/wiki/People/Account_support_team) before play commences.[^play-commence] See [screening](#screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament **must not** prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
-  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the [Tournament Committee](/wiki/People/Tournament_Committee) for a case-by-case review using the [tournament reports form](https://tcomm.hivie.tn/reports/create).
+  - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the committee for a case-by-case review (see [contact](#contact)).
   - Disqualifying a user due to breach of tournament rules is allowed without prior approval. However, hosts **must** document such cases and retain evidence in the event the legitimacy of the disqualification is challenged.
 - A dedicated referee **must** be present during every match, or be available to be summoned with minimal delay (less than five minutes) **if** permission for [automated software](#automated-refereeing) has been granted and is being used for assistance. Players **must not** "self-ref".
 - Every match within the same bracket or Qualifier stage **must** be held in a consistent format. For example, in a tournament which uses a Qualifier stage and a double-elimination bracket stage, bracket matches should all be played either synchronously or asynchronously, but not both.
@@ -162,7 +161,7 @@ Tournaments requesting official support **must** adhere to the following:
 - All relevant links **must** be present and maintained on the tournament's forum post.
   - The main spreadsheet, online bracket, event website, twitch streams, Discord, and other core links are expected to be on the forum post. Other links, such as statistics, **may** be included on the tournament's main spreadsheet instead.
 - All promotional material or services associated with a tournament receiving official support **must** adhere to the [osu! community rules](/wiki/Rules). This includes things like Twitter accounts, Discord servers, and so on.
-- All forum threads associated with the tournament **must** contain this snippit at the very end of the forum post:
+- All forum threads associated with the tournament **must** contain this snippet at the very end of the forum post:
 
 ```
 [centre]
@@ -195,7 +194,7 @@ A list of all tournament staff **must** be publicly visible in an easily accessi
 
 #### Player expectations
 
-Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements. They are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions.
+Participants in officially supported tournaments are expected to adhere to the [osu! community rules](/wiki/Rules) at all times, regardless of their rank, accomplishments, or other achievements. They are also expected to treat all volunteers involved in hosting a tournament with respect, and to not deliberately attempt to waste their time or otherwise excessively complicate the undertaking of a tournament with their actions. Players are responsible for maintaining smooth communication with staff, team members, and opposing teams, particularly regarding scheduling.
 
 Additionally, players are expected to have participated in a given tournament in order to qualify for any prizes it **may** award — simply qualifying as a member of a winning team is not enough. Because there are intangible contributions to teams that players often make without playing maps, only players who *do not play any maps at all* throughout the course of a tournament **may** be denied a badge prize.
 
@@ -206,7 +205,7 @@ At the account support team's discretion, offending players may be issued timed 
 Third-party programs designed to filter registrants, seed players, or automate the job of a referee **must** be open, transparent, and documented. Any third-party tool used for these purposes **must**:
 
 - Be made publicly and functionally available as an open-source repository. An open-source license **must** be present.
-- Be thoroughly documented in an easily readable and digestible format. Anyone **must** be able to reproduce the outputs using the provided documentation.
+- Be thoroughly documented in an easily readable and digestible format. The outputs **must** be reproducible using the provided documentation.
 
 Currently, approval for the use of any such tool **must** be **explicitly granted** by the committee. Additionally, this approval **must** be granted for every tournament where programs for registrant filtering, seeding, or automated refereeing are used.
 
@@ -218,10 +217,10 @@ In addition to the expectations for programs above, tools or systems used to fil
 
 - If a dataset of osu! multiplayer matches, player scores, or otherwise is used, archives **must** be publicly available, downloadable, timestamped, and have the most recent archive be no more than 30 days out of date. Archives **must** remain available for at least 6 months. Documentation **must** be provided explaining how to reproduce the results using it — including code where applicable.
   - Tournaments using such tools **must** disclose the dates at which they seed and/or filter players using these tools.
-- When doing Qualifiers, the formula or method used to determine seeding **must** be included on the tournament's forum post.
+- The formula or method used to determine seeding **must** be included on the tournament's forum post.
   - The most commonly used seeding methods and the mathematics behind them can be found on the [Common seeding methods](/wiki/Tournaments/Common_seeding_methods) wiki page.
 
-A third party **must** be able to get the same results without needing additional information. Manually filtering players or adjusting their seeds is strictly prohibited.
+A third party **must** be able to get the same results without needing undisclosed information. Manually filtering players or adjusting their seeds is strictly prohibited.
 
 #### Automated refereeing
 
@@ -229,7 +228,7 @@ The use of automated refereeing tools are permitted *with some caveats to reflec
 
 In addition to the expectations for programs above, automated refereeing tools **must** also adhere to the following expectations:
 
-- Potential bots **must** abide by the expectations laid out for [bot accounts](/wiki/Bot_account) for general in-game use. Referee-related tools and software could alternatively be run directly from a user's own account.
+- Potential bots **must** abide by the expectations laid out for [bot accounts](/wiki/Bot_account) for general in-game use, even if they are run directly from a user's own account.
 - A human referee **must** always be available to respond to calls for support from participants within a reasonable timeframe (2–5 minutes), and be able to be summoned remotely via the use of a `!panic` command inside the lobby itself. When this command is used, all automation **must** stop until resumed by the human referee.
 - Any ongoing lobbies **must** be able to be manually taken over by a human referee with minimal interference whilst also retaining any previous logs of play and chat.
 
@@ -245,7 +244,7 @@ Tournaments which are not seeking official support **may** request screening. If
 
 #### Overview
 
-At a high level, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before bracket-stage matches begin with a screening request. Hosts are then **required** to disqualify all screened users. This list is provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The typical wait time for a response is **10-14 days**. If a response is not received after 14 days, [contact the committee](#contact).
+At a high level, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before play commences[^play-commence] with a screening request. Hosts are then **required** to disqualify all screened users. This list is provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The typical wait time for a response is **10-14 days**. If a response is not received after 14 days, [contact the committee](#contact).
 
 Screening exists to protect competitive integrity by preventing users with recent serious infringements or active tournament bans from participating.
 
@@ -298,7 +297,7 @@ For clarifications on which registrants are relevant for a particular tournament
 
 #### Enforcement
 
-Allowing users who have failed screening to play will result in an immediate withdrawal of support and may cause future requests for support to be denied.
+Allowing users who have failed screening to play will result in an immediate withdrawal of support and will result in future requests for support to be denied.
 
 It is the responsibility of the host to clarify the criteria by [contacting the committee](#contact) prior to submitting the request for support should they have concerns or need clarity on the [eligibility criteria](#eligibility-criteria).
 
@@ -336,7 +335,7 @@ To receive main-menu banners, the following additional criteria **must** be met:
 - The tournament is nearing its conclusion (e.g. at Quarterfinals or above and it started on Round of 32).
 - Hosts are able to provide match and livestream schedules ahead of time.
 
-**Do not** submit a banner with requests. Hosts will be informed of which rounds they are authorised to create main-menu banners for should the request be approved.
+Submitting a banner with requests is not required. Hosts will be informed of which rounds they are authorised to create main-menu banners for should the request be approved.
 
 ##### Banner requirements
 
@@ -397,9 +396,9 @@ Hosts **must** review the following items **before** submitting the conclusion e
 
 - All staff listings are updated and synchronised. Where staff are listed in spreadsheets (e.g. referees assigned to matches), usernames **must** be consistent throughout.
 - All staff are appropriately credited in any spreadsheets.
-- If using Qualifiers, the seeding method, results, and match links are publicly listed and easily accessible as described in [regulatory](#regulatory). A third-party **must** be able to reproduce the results **exactly** using the provided match links.
+- The seeding method, results, and match links are publicly listed and easily accessible as described in [regulatory](#regulatory). A third-party **must** be able to reproduce the results **exactly** using the provided match links.
   - Take note of any filtered scores and list them in the email. Sometimes, scores are played by mistake or with the wrong format and are excluded at the spreadsheet level but will still show up in the match data when verifying.
-  - If the Qualifier score values differ from the MP links in any way, the relevant details **must** be stated in the conclusion email. This includes any normalisations of, or other modifications to, in-game mod multipliers.
+  - If the score values used for seeding differ from the MP links in any way, the relevant details **must** be stated in the conclusion email. This includes any normalisations of, or other modifications to, in-game mod multipliers.
 - All required links are present on the forum post (see [regulatory](#regulatory)).
 - All online brackets and match listings are updated to include results for all matches.
 
@@ -419,6 +418,7 @@ Badge images **must** adhere to the following standards:
 - The design **must not** include any AI-generated assets.
 - The design **must** be original and be made specifically for the tournament.
 - The design **must not** use any drawings or artwork without the permission from any rights holders.
+- The tournament **must** receive permission to use any trademarks referenced in the tournament's name, branding, or materials from the relevant rights holders.
 
 The committee reserves the right to require a badge be redesigned for any reason.
 
@@ -448,6 +448,7 @@ It is virtually unheard of for a tournament to be denied support prior to its co
 There are three main ways to get in contact with the committee:
 
 - Sending an email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+  - When emailing, CC any co-hosts and always use "Reply to all" for ongoing threads.
 - Submitting a ticket or report through the [Tournament Committee website](https://tcomm.hivie.tn/).
 - Pinging the `@tournament-committee` role in the [osu! Discord](https://discord.gg/ppy).
 
@@ -464,18 +465,17 @@ At a high level, these are the reasons each method **should** be used. Contact m
 | Quick questions about procedures | ![partial] | ![true] | ![true] |
 | Immediate assistance / intervention by the committee | ![partial] | ![partial] | ![true] [^intervention] |
 
-The following table details **approximate** maximum wait times for common inquiries. Wait times vary dramatically depending on the complexity of the inquiry and method of contact. Simple queries are sometimes answered in minutes, while very complex topics requiring group consensus can take several weeks to process. Response times also vary depending on the urgency of the request.
+The following table details **approximate** wait times for common inquiries. Wait times vary depending on the complexity of the inquiry and method of contact. Simple queries are sometimes answered in minutes, while complex topics requiring group consensus can take longer. Response times also vary depending on the urgency of the request.
 
 | Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy) |
 | :-- | :-- | :-- | :-- |
-| Official tournament support requests / screening | 2 weeks | ![false] | ![false] |
-| News post and main-menu banner requests | 2 weeks | ![false] | ![false] |
-| Simple tournament format approval requests | 2 weeks | 1 week | ![false] |
-| Complex or novel tournament format approval requests | 3 weeks | 2 weeks | ![false] |
-| Complex issues requiring resolution by the committee | 2 weeks | 10 days | ![false] |
-| Tournament reports | No response | 10 days | ![false] |
-| Quick questions about basic procedures | 1 week | A few days | 24 hours |
-| Immediate assistance / intervention by the committee | 1 week | 2 days | A few hours |
+| Official tournament support requests / screening | 10–14 days | ![false] | ![false] |
+| News post and main-menu banner requests | 10–14 days | ![false] | ![false] |
+| Tournament format approval requests | 10–14 days | 10–14 days | ![false] |
+| Complex issues requiring resolution by the committee | 10–14 days | 10–14 days | ![false] |
+| Tournament reports | No response | 10–14 days | ![false] |
+| Quick questions about procedures | A few days | A few days | A few hours |
+| Immediate assistance / intervention by the committee | A few days | A few days | A few hours |
 
 ## FAQ
 
