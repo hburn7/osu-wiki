@@ -60,6 +60,8 @@ Community-run tournaments receiving this support **must** abide by the following
 
 Format criteria are **inflexible, absolute fundamentals** that all officially-supported tournaments **must** abide by. Any violation of the below points will immediately result in a [revocation of support](#revocation-of-support):
 
+- The tournament's theme, sponsors, and promotional material **must not** violate the [community rules](/wiki/Rules).
+- Any region restrictions **must** be reasonable, e.g. between countries with a shared language, political history, or geographic region.
 - The tournament series **must not** run more than two times per year.
 - The tournament format **must** be at least Round of 16 double-elimination or Round of 32 single-elimination.
   - For LAN tournaments, the format **must** be at least Round of 8 double-elimination or Round of 16 single-elimination.
@@ -120,7 +122,7 @@ Tournaments requesting official support **must** adhere to the following:
 
 - The tournament **must** abide by the following content usage rules:
   - Any beatmaps used in the tournament **must not** have a DMCA takedown notice.
-  - Using any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) **shall not** be used, **unless** they are Ranked, Approved, or Loved.
+  - Any beatmaps that violate [content usage permission rules](/wiki/Rules/Content_usage_permissions#artist-permissions) **shall not** be used, **unless** they are Ranked, Approved, or Loved.
     - If permission to use disallowed songs is granted by the artist, the host **must** include proof of permission in their email to [tournaments@ppy.sh](mailto:tournaments@ppy.sh) upon tournament conclusion. Hosts **must** receive permission from the artist prior to its use in the tournament.
   - The [mappool compliance](https://tcomm.hivie.tn/mappool-compliance) tool **should** be used to ensure tournament mappools are compliant.
 - All registrants **must** be screened by the [account support team](/wiki/People/Account_support_team) before play commences.[^play-commence] See [screening](#screening) for more details.
@@ -144,10 +146,7 @@ Tournaments requesting official support **must** adhere to the following:
 
 #### Organisers
 
-Tournament organisers...
-
-- **Must** report instances of foul play, misconduct, and violations of the staff & player expectations outlined below to the committee (see [contact](#contact)). Similarly, players and staff share a responsibility to inform the committee in instances of organiser misconduct.
-- **Must not** allow staff members with an active tournament ban, **except** for streamers, commentators, and graphic designers. Although it is allowed, it is **not recommended** to allow a user with a tournament ban to staff officially-supported events.
+Tournament organisers **must** report instances of foul play, misconduct, and violations of the staff & player expectations outlined below to the committee (see [contact](#contact)). Similarly, players and staff share a responsibility to inform the committee in instances of organiser misconduct.
 
 #### Staff expectations
 
@@ -155,13 +154,15 @@ With regards to staff roles, the following rules apply:
 
 - Streamers, commentators, and graphic designers **may** play in the tournament.
 - Eliminated players **may** be enlisted as referees, mappool playtesters, and/or replay creators.
-- Staff with any role not listed here, **may not** play in a badged tournament — if you have any doubts, please contact the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Staff with any role not listed here, **may not** play in a badged tournament — any doubts should be raised to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 - Any staff involved in the operation of a tournament in any capacity **must not** be currently restricted.
 - Users under an active [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans) or [staffing ban](/wiki/Help_centre/Tournament_sanctions#staffing-bans) **must** disclose their ban status to any officially supported tournament they intend to help with.
   - These users are always eligible for streaming, commentary, and graphic design staff roles at the host's discretion. Hosts who wish to enroll a tournament-banned staff member for a different role **must** request an exemption via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) and receive written approval.
   - It is **recommended** to not recruit tournament-banned users for staffing positions as they have already infringed upon the rules.
 
-At the support team's discretion, organisers who make major mistakes that break eligibility rules or expectations for official support may be subject to a [hosting ban](/wiki/Help_centre/Tournament_sanctions#hosting-bans). Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. While under a hosting ban, users may not be a primary organiser or admin of any officially supported tournament. They may, however, engage in other roles which do not involve organisation. Less severe mistakes may lead to a [hosting probation](/wiki/Help_centre/Tournament_sanctions#hosting-probations) being applied instead.
+At the support team's discretion, staff members whose conduct contradicts these expectations **may** be issued a [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans) or [staffing ban](/wiki/Help_centre/Tournament_sanctions#staffing-bans).
+
+At the support team's discretion, organisers who make major mistakes that break eligibility rules or expectations for official support may be subject to a [hosting ban](/wiki/Help_centre/Tournament_sanctions#hosting-bans). Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. While under a hosting ban, users may not be a primary organiser or admin of any officially-supported tournament. They may, however, engage in other roles which do not involve organisation.
 
 A list of all tournament staff **must** be publicly visible in an easily accessible location. This list **must** be contained within the tournament's forum post, wiki page, website, **or** spreadsheet. If there are multiple lists of staff, they **must** all be up to date and in sync with one another.
 
@@ -217,7 +218,7 @@ Tournaments which are not seeking official support **may** request screening. If
 
 #### Overview
 
-At a high level, hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before play commences[^play-commence] with a screening request. Hosts are then **required** to disqualify all screened users. This list is provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The typical wait time for a response is **10-14 days**. If a response is not received after 14 days, [contact the committee](#contact).
+Hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before play commences[^play-commence] with a screening request. Hosts are then **required** to disqualify all screened users. This list is provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The typical wait time for a response is **10-14 days**. If a response is not received after 14 days, [contact the committee](#contact).
 
 Screening exists to protect competitive integrity by preventing users with recent serious infringements or active tournament bans from participating.
 
@@ -446,7 +447,7 @@ There are three main ways to get in contact with the committee:
 - Submitting a ticket or report through the [Tournament Committee website](https://tcomm.hivie.tn/).
 - Pinging the `@tournament-committee` role in the [osu! Discord](https://discord.gg/ppy).
 
-At a high level, these are the reasons each method **should** be used. Contact methods with the ![false] icon **must not** be used for the corresponding contact reason.
+Generally, these are the reasons each method **should** be used. Contact methods with the ![false] icon **must not** be used for the corresponding contact reason.
 
 | Contact reason | [Email](mailto:tournaments@ppy.sh) | [TC Website](https://tcomm.hivie.tn/) | [Discord](https://discord.gg/ppy) |
 | :-- | :-- | :-- | :-- |
@@ -494,7 +495,7 @@ Yes! See [Official beatmapping contest support](/wiki/Contests/Official_support)
 [^intervention]: After joining the [Discord](https://discord.gg/ppy), navigate to `#tournaments` and ping the `@tournament-committee` role for immediate assistance. Emergency use only.
 [^personal-information]: Personal information is defined as any information that can be used to identify, contact, or locate a specific individual, either directly or indirectly. This includes but is not limited to email addresses, ID cards, and passports.
 [^play-commence]: Play "commences" once any seedings or brackets have been finalised. Therefore, Qualifiers may be exempt from this.
-[^preliminary-event]: Other tournaments which are referenced for entry into another are considered preliminary.
+[^preliminary-event]: Other tournaments for which participation and/or placement can constitute a direct qualification into another are considered preliminary.
 
 [true]: /wiki/shared/true.png "Allowed, preferred"
 [false]: /wiki/shared/false.png "Not allowed"
