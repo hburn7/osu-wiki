@@ -3,6 +3,8 @@ no_native_review: true
 tags:
   - game client
   - klien permainan
+outdated_translation: true
+outdated_since: b2b0d04d34cbf6d41998176a875479b31b9b89aa
 ---
 
 # Meningkatkan ke lazer
@@ -133,7 +135,7 @@ Saat ini, data tertentu seperti beatmap, skin, skor, tayangan ulang, dan koleksi
 
 #### Apabila saya mengimpor beatmap saya ke lazer, apakah ruang penyimpanan yang terpakai akan berlipat ganda?
 
-Apabila lazer dan stable terpasang pada drive yang sama, osu! akan menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#dengan-*hard-link*) untuk mencegah terpakainya ruang penyimpanan tambahan.
+Apabila lazer dan stable terpasang pada drive yang sama, osu! akan menggunakan teknologi [hard link](/wiki/Client/Release_stream/Lazer/File_storage#melalui-hard-link) untuk mencegah terpakainya ruang penyimpanan tambahan.
 
 Apabila tidak, ruang penyimpanan yang digunakan akan berlipat ganda.
 

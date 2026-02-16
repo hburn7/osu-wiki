@@ -1,5 +1,7 @@
 ---
 no_native_review: true
+outdated_translation: true
+outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
 ---
 
 # Tournois
@@ -67,7 +69,7 @@ Tournois officiels organisés par l'équipe d'osu!.
 | [osu!catch World Cup 2019](CWC/2019) | 29/06/2019 | 04/08/2019 | ::{ flag=KR }:: Corée du Sud | ::{ flag=CN }:: Chine | ::{ flag=CL }:: Chili |
 | [osu!catch World Cup 2020](CWC/2020) | 09/05/2020 | 14/06/2020 | ::{ flag=KR }:: Corée du Sud | ::{ flag=CN }:: Chine | ::{ flag=US }:: États-Unis |
 | [osu!catch World Cup 2021](CWC/2021) | 01/05/2021 | 06/06/2021 | ::{ flag=KR }:: Corée du Sud | ::{ flag=HK }:: Hong Kong | ::{ flag=US }:: États-Unis |
-| [osu!catch World Cup 2022](CWC/2022) | 21/05/2022 | 03/07/2021 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=CN }:: Chine |
+| [osu!catch World Cup 2022](CWC/2022) | 21/05/2022 | 03/07/2022 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=CN }:: Chine |
 | [osu!catch World Cup 2023](CWC/2023) | 13/05/2023 | 25/06/2023 | ::{ flag=KR }:: Corée du Sud | ::{ flag=US }:: États-Unis | ::{ flag=IT }:: Italie |
 | [osu!catch World Cup 2024](CWC/2024) | 18/05/2024 | 30/06/2024 | ::{ flag=US }:: États-Unis | ::{ flag=AR }:: Argentine | ::{ flag=PL }:: Pologne |
 | [osu!catch World Cup 2025](CWC/2025) | 08/05/2025 | 20/07/2025 | ::{ flag=AR }:: Argentine | ::{ flag=US }:: États-Unis | ::{ flag=FI }:: Finlande |
@@ -949,6 +951,12 @@ Tournois et compétitions non-officiels gérés par la communauté.
 | Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Score Attack Showdown](SAS/1) | 26/10/2020 | 28/11/2020 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019) |
+
+#### Solo Score Rush
+
+| Nom | Début | Fin | ![Couronne en or][GCrown] | ![Couronne en argent][SCrown] | ![Couronne de bronze][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Solo Score Rush](SSR/1) | 19/07/2025 | 14/09/2025 | ::{ flag=KR }:: [Naaaad](https://osu.ppy.sh/users/10344857) | ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) | ::{ flag=MX }:: [HomuAkemi](https://osu.ppy.sh/users/17668607) |
 
 #### Sparxe's Two Key Event
 

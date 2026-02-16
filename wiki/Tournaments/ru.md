@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: bc36bac29aec30b7c9635c004f07cfa0bdc24866
+---
+
 # Турниры
 
 Данный раздел посвящён турнирам по osu!. Организация и проведение турниров также обсуждаются в [отдельном форуме](https://osu.ppy.sh/community/forums/55).
@@ -66,7 +71,7 @@
 | [osu!catch World Cup 2022](CWC/2022) | 21.05.2022 | 03.07.2022 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=CN }:: Китай |
 | [osu!catch World Cup 2023](CWC/2023) | 13.05.2023 | 25.06.2023 | ::{ flag=KR }:: Республика Корея | ::{ flag=US }:: Соединённые Штаты | ::{ flag=IT }:: Италия |
 | [osu!catch World Cup 2024](CWC/2024) | 18.04.2024 | 30.06.2024 | ::{ flag=US }:: Соединённые Штаты | ::{ flag=AR }:: Аргентина | ::{ flag=PL }:: Польша |
-| [osu!catch World Cup 2025](CWC/2025) | 08.05.2025 | 20.07.2024 | ::{ flag=AR }:: Аргентина | ::{ flag=US }:: Соединённые Штаты | ::{ flag=FI }:: Финля́ндия |
+| [osu!catch World Cup 2025](CWC/2025) | 08.05.2025 | 20.07.2025 | ::{ flag=AR }:: Аргентина | ::{ flag=US }:: Соединённые Штаты | ::{ flag=FI }:: Финля́ндия |
 
 ### ![](/wiki/shared/mode/mania.png) osu!mania World Cup
 
@@ -945,6 +950,12 @@
 | Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Score Attack Showdown](SAS/1) | 26.10.2020 | 28.11.2020 | ::{ flag=MY }:: [cheewee10](https://osu.ppy.sh/users/4477497) | ::{ flag=CL }:: [\[GS\]Myuka](https://osu.ppy.sh/users/10072733) | ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019) |
+
+#### Solo Score Rush
+
+| Название | Начало | Конец | ![Золото][GCrown] | ![Серебро][SCrown] | ![Бронза][BCrown] |
+| :-- | :-- | :-- | :-- | :-- | :-- |
+| [Solo Score Rush](SSR/1) | 19.07.2025 | 14.09.2025 | ::{ flag=KR }:: [Naaaad](https://osu.ppy.sh/users/10344857) | ::{ flag=TH }:: [--Pavin--](https://osu.ppy.sh/users/12046267) | ::{ flag=MX }:: [HomuAkemi](https://osu.ppy.sh/users/17668607) |
 
 #### Sparxe's Two Key Event
 

@@ -155,13 +155,13 @@ With regards to staff roles, the following rules apply:
 
 - Streamers, commentators, and graphic designers **may** play in the tournament.
 - Eliminated players **may** be enlisted as referees, mappool playtesters, and/or replay creators.
-- Staff with any role not listed here, **may not** play in a badged tournament — any doubts should be raised to the [account support team](/wiki/People/Account_support_team) via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
+- Staff with any role not listed here, **may not** play in a badged tournament — if you have any doubts, please contact the account support team via [tournaments@ppy.sh](mailto:tournaments@ppy.sh).
 - Any staff involved in the operation of a tournament in any capacity **must not** be currently restricted.
-- Users under an active tournament ban **must** disclose their tournament ban status to any officially supported tournament they intend to help with.
+- Users under an active [tournament ban](/wiki/Help_centre/Tournament_sanctions#tournament-bans) or [staffing ban](/wiki/Help_centre/Tournament_sanctions#staffing-bans) **must** disclose their ban status to any officially supported tournament they intend to help with.
+  - These users are always eligible for streaming, commentary, and graphic design staff roles at the host's discretion. Hosts who wish to enroll a tournament-banned staff member for a different role **must** request an exemption via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) and receive written approval.
+  - It is **recommended** to not recruit tournament-banned users for staffing positions as they have already infringed upon the rules.
 
-At the support team's discretion, staff members whose conduct directly results in a tournament losing its official support may not fulfil the same roles in, nor be the host or admin of, another officially-supported tournament for at least 4 months. In the event a staffing ban is applied to a user, they will be informed directly through the [tournament team](mailto:tournaments@ppy.sh).
-
-At the support team's discretion, organisers who make major mistakes that break eligibility rules or expectations for official support may be subject to a hosting ban. Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. While under a hosting ban, users may not be a primary organiser or admin of any officially-supported tournament. They may, however, engage in other roles which do not involve organisation.
+At the support team's discretion, organisers who make major mistakes that break eligibility rules or expectations for official support may be subject to a [hosting ban](/wiki/Help_centre/Tournament_sanctions#hosting-bans). Hosting bans may be used in place of revoking official support when a tournament would otherwise be ineligible for support while maintaining competitive integrity. While under a hosting ban, users may not be a primary organiser or admin of any officially supported tournament. They may, however, engage in other roles which do not involve organisation. Less severe mistakes may lead to a [hosting probation](/wiki/Help_centre/Tournament_sanctions#hosting-probations) being applied instead.
 
 A list of all tournament staff **must** be publicly visible in an easily accessible location. This list **must** be contained within the tournament's forum post, wiki page, website, **or** spreadsheet. If there are multiple lists of staff, they **must** all be up to date and in sync with one another.
 
@@ -171,7 +171,7 @@ Participants in officially supported tournaments are expected to adhere to the [
 
 Additionally, players are expected to have participated in a given tournament in order to qualify for any prizes it **may** award — simply qualifying as a member of a winning team is not enough. Because there are intangible contributions to teams that players often make without playing maps, only players who *do not play any maps at all* throughout the course of a tournament **may** be denied a badge prize.
 
-At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
+At the account support team's discretion, offending players may be issued timed or indefinite [tournament bans](/wiki/Help_centre/Tournament_sanctions#tournament-bans) depending on the severity of their behaviour. Repeat offenders may risk incurring an indefinite tournament ban or a restriction.
 
 #### Programs
 
